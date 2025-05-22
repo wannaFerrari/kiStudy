@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\01.DataType\bin\Debug\01.DataType.exe.config
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\01.DataType\bin\Debug\01.DataType.exe
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\01.DataType\bin\Debug\01.DataType.pdb
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\01.DataType\obj\Debug\01.DataType.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\01.DataType\obj\Debug\01.DataType.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\01.DataType\obj\Debug\01.DataType.exe
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\01.DataType\obj\Debug\01.DataType.pdb
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\01.DataType\obj\Debug\01.DataType.exe.config

@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\03.Conditional\bin\Debug\03.Conditional.exe.config
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\03.Conditional\bin\Debug\03.Conditional.exe
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\03.Conditional\bin\Debug\03.Conditional.pdb
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\03.Conditional\obj\Debug\03.Conditional.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\03.Conditional\obj\Debug\03.Conditional.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\03.Conditional\obj\Debug\03.Conditional.exe
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\03.Conditional\obj\Debug\03.Conditional.pdb
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\03.Conditional\obj\Debug\03.Conditional.exe.config

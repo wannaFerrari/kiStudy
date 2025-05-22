@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpPractice\_0522\bin\Debug\_0522.exe.config
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpPractice\_0522\bin\Debug\_0522.exe
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpPractice\_0522\bin\Debug\_0522.pdb
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpPractice\_0522\obj\Debug\_0522.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpPractice\_0522\obj\Debug\_0522.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpPractice\_0522\obj\Debug\_0522.exe
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpPractice\_0522\obj\Debug\_0522.pdb
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpPractice\_0522\obj\Debug\_0522.exe.config

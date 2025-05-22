@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\002.Operator\bin\Debug\002.Operator.exe.config
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\002.Operator\bin\Debug\002.Operator.exe
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\002.Operator\bin\Debug\002.Operator.pdb
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\002.Operator\obj\Debug\002.Operator.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\002.Operator\obj\Debug\002.Operator.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\002.Operator\obj\Debug\002.Operator.exe
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\002.Operator\obj\Debug\002.Operator.pdb
+C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\002.Operator\obj\Debug\002.Operator.exe.config
