@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpExample\05.Loop\bin\Debug\05.Loop.exe.config
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpExample\05.Loop\bin\Debug\05.Loop.exe
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpExample\05.Loop\bin\Debug\05.Loop.pdb
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpExample\05.Loop\obj\Debug\05.Loop.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpExample\05.Loop\obj\Debug\05.Loop.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpExample\05.Loop\obj\Debug\05.Loop.exe
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpExample\05.Loop\obj\Debug\05.Loop.pdb
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpExample\05.Loop\obj\Debug\05.Loop.exe.config

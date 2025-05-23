@@ -1,18 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KGA\\Documents\\Visual Studio 2022\\Projects\\CsharpPractice\\",
+  "WorkspaceRootPath": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F71FD28C-2B17-4DB2-9314-2A7714D76667}|_0522_3\\_0522_3.csproj|c:\\users\\kga\\documents\\visual studio 2022\\projects\\csharppractice\\_0522_3\\_0522_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B994DBE-94E0-4FAE-BF28-00898B1EE757}|_0522_2_hard\\_0523_2_hard.csproj|c:\\users\\kga\\documents\\git repository\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0522_2_hard\\_0523_2_hard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B994DBE-94E0-4FAE-BF28-00898B1EE757}|_0522_2_hard\\_0523_2_hard.csproj|solutionrelative:_0522_2_hard\\_0523_2_hard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C35C3FC9-9E7B-4A18-A58B-48F428D44A55}|_0523_2\\_0523_2.csproj|c:\\users\\kga\\documents\\git repository\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0523_2\\_0523_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C35C3FC9-9E7B-4A18-A58B-48F428D44A55}|_0523_2\\_0523_2.csproj|solutionrelative:_0523_2\\_0523_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40B00C9E-2029-4945-9526-937F3F327429}|_0522_1_hard\\_0523_1_hard.csproj|c:\\users\\kga\\documents\\git repository\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0522_1_hard\\_0523_1_hard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40B00C9E-2029-4945-9526-937F3F327429}|_0522_1_hard\\_0523_1_hard.csproj|solutionrelative:_0522_1_hard\\_0523_1_hard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48261876-20CF-4946-85F9-A64EFF42B4EE}|_0523_1\\_0523_1.csproj|c:\\users\\kga\\documents\\git repository\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0523_1\\_0523_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48261876-20CF-4946-85F9-A64EFF42B4EE}|_0523_1\\_0523_1.csproj|solutionrelative:_0523_1\\_0523_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F61908-3369-4B76-89F0-20FC0C7FAB20}|_0523_4\\_0523_4.csproj|c:\\users\\kga\\documents\\git repository\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0523_4\\_0523_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F61908-3369-4B76-89F0-20FC0C7FAB20}|_0523_4\\_0523_4.csproj|solutionrelative:_0523_4\\_0523_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21422A8A-E143-4FC0-A661-C3EA9898EF03}|_0523_3\\_0523_3.csproj|c:\\users\\kga\\documents\\git repository\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0523_3\\_0523_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21422A8A-E143-4FC0-A661-C3EA9898EF03}|_0523_3\\_0523_3.csproj|solutionrelative:_0523_3\\_0523_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71FD28C-2B17-4DB2-9314-2A7714D76667}|_0522_3\\_0522_3.csproj|C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_3\\_0522_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F71FD28C-2B17-4DB2-9314-2A7714D76667}|_0522_3\\_0522_3.csproj|solutionrelative:_0522_3\\_0522_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6ED26CC-0492-4819-B1F0-DAA81AEEDADD}|_0522_2\\_0522_2.csproj|c:\\users\\kga\\documents\\visual studio 2022\\projects\\csharppractice\\_0522_2\\_0522_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6ED26CC-0492-4819-B1F0-DAA81AEEDADD}|_0522_2\\_0522_2.csproj|solutionrelative:_0522_2\\_0522_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A440E8AD-948B-4599-9B6D-221502E4E984}|_0522_1_answer\\_0522_1_answer.csproj|C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_1_answer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A440E8AD-948B-4599-9B6D-221502E4E984}|_0522_1_answer\\_0522_1_answer.csproj|solutionrelative:_0522_1_answer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B335BE0D-5C9B-489D-A348-BDAB86008FCE}|_0522\\_0522.csproj|c:\\users\\kga\\documents\\visual studio 2022\\projects\\csharppractice\\_0522\\_0522.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B335BE0D-5C9B-489D-A348-BDAB86008FCE}|_0522\\_0522.csproj|solutionrelative:_0522\\_0522.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KGA\\Documents\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522\\_0522.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99A546E-01BA-4176-9B59-BBF4AC61C878}|_0522_03_answer\\_0522_03_answer.csproj|c:\\users\\kga\\documents\\git repository\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0522_03_answer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99A546E-01BA-4176-9B59-BBF4AC61C878}|_0522_03_answer\\_0522_03_answer.csproj|solutionrelative:_0522_03_answer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED26CC-0492-4819-B1F0-DAA81AEEDADD}|_0522_2\\_0522_2.csproj|C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_2\\_0522_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ED26CC-0492-4819-B1F0-DAA81AEEDADD}|_0522_2\\_0522_2.csproj|solutionrelative:_0522_2\\_0522_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +58,142 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_0523_2_hard.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_2_hard\\_0523_2_hard.cs",
+              "RelativeDocumentMoniker": "_0522_2_hard\\_0523_2_hard.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_2_hard\\_0523_2_hard.cs",
+              "RelativeToolTip": "_0522_2_hard\\_0523_2_hard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:26:45.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_0523_1_hard.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_1_hard\\_0523_1_hard.cs",
+              "RelativeDocumentMoniker": "_0522_1_hard\\_0523_1_hard.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_1_hard\\_0523_1_hard.cs",
+              "RelativeToolTip": "_0522_1_hard\\_0523_1_hard.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:54:07.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_0523_4.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_4\\_0523_4.cs",
+              "RelativeDocumentMoniker": "_0523_4\\_0523_4.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_4\\_0523_4.cs",
+              "RelativeToolTip": "_0523_4\\_0523_4.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T07:35:43.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_0523_3.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_3\\_0523_3.cs",
+              "RelativeDocumentMoniker": "_0523_3\\_0523_3.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_3\\_0523_3.cs",
+              "RelativeToolTip": "_0523_3\\_0523_3.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAowHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:38:17.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_0523_2.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_2\\_0523_2.cs",
+              "RelativeDocumentMoniker": "_0523_2\\_0523_2.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_2\\_0523_2.cs",
+              "RelativeToolTip": "_0523_2\\_0523_2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:27:17.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_0523_1.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_1\\_0523_1.cs",
+              "RelativeDocumentMoniker": "_0523_1\\_0523_1.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_1\\_0523_1.cs",
+              "RelativeToolTip": "_0523_1\\_0523_1.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwHcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:49:57.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_03_answer\\Program.cs",
+              "RelativeDocumentMoniker": "_0522_03_answer\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_03_answer\\Program.cs",
+              "RelativeToolTip": "_0522_03_answer\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T01:02:35.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_0522.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522\\_0522.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522\\_0522.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522\\_0522.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522\\_0522.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:28:34.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_1_answer\\Program.cs",
+              "RelativeDocumentMoniker": "_0522_1_answer\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_1_answer\\Program.cs",
+              "RelativeToolTip": "_0522_1_answer\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T00:53:19.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "_0522_3.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522_3\\_0522_3.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_3\\_0522_3.cs",
               "RelativeDocumentMoniker": "_0522_3\\_0522_3.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522_3\\_0522_3.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_3\\_0522_3.cs",
               "RelativeToolTip": "_0522_3\\_0522_3.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwEkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwEAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T08:12:16.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "_0522_2.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522_2\\_0522_2.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_2\\_0522_2.cs",
               "RelativeDocumentMoniker": "_0522_2\\_0522_2.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522_2\\_0522_2.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_2\\_0522_2.cs",
               "RelativeToolTip": "_0522_2\\_0522_2.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T08:06:48.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_0522.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522\\_0522.cs",
-              "RelativeDocumentMoniker": "_0522\\_0522.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522\\_0522.cs",
-              "RelativeToolTip": "_0522\\_0522.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T07:28:34.961Z",
               "EditorCaption": ""
             },
             {

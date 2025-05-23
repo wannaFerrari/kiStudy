@@ -1,0 +1,7 @@
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_2_hard\bin\Debug\_0522_2_hard.exe.config
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_2_hard\bin\Debug\_0522_2_hard.exe
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_2_hard\bin\Debug\_0522_2_hard.pdb
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_2_hard\obj\Debug\_0523_2_hard.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_2_hard\obj\Debug\_0523_2_hard.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_2_hard\obj\Debug\_0522_2_hard.exe
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_2_hard\obj\Debug\_0522_2_hard.pdb

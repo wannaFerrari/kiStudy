@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_03_answer\bin\Debug\_0522_03_answer.exe.config
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_03_answer\bin\Debug\_0522_03_answer.exe
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_03_answer\bin\Debug\_0522_03_answer.pdb
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_03_answer\obj\Debug\_0522_03_answer.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_03_answer\obj\Debug\_0522_03_answer.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_03_answer\obj\Debug\_0522_03_answer.exe
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_03_answer\obj\Debug\_0522_03_answer.pdb
+C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522_03_answer\obj\Debug\_0522_03_answer.exe.config
