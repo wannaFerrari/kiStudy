@@ -1,0 +1,7 @@
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\bin\Debug\_0523_4_hard.exe.config
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\bin\Debug\_0523_4_hard.exe
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\bin\Debug\_0523_4_hard.pdb
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\obj\Debug\_0523_4_hard.csproj.AssemblyReference.cache
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\obj\Debug\_0523_4_hard.csproj.CoreCompileInputs.cache
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\obj\Debug\_0523_4_hard.exe
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\obj\Debug\_0523_4_hard.pdb

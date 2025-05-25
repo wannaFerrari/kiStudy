@@ -6,3 +6,10 @@ C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_
 C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0523_3\obj\Debug\_0523_3.exe
 C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0523_3\obj\Debug\_0523_3.pdb
 C:\Users\KGA\Documents\Git Repository\KiStudy\kiStudy\0522\CsharpPractice_0522\_0523_3\obj\Debug\_0523_3.exe.config
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_3\bin\Debug\_0523_3.exe.config
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_3\bin\Debug\_0523_3.exe
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_3\bin\Debug\_0523_3.pdb
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_3\obj\Debug\_0523_3.csproj.AssemblyReference.cache
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_3\obj\Debug\_0523_3.csproj.CoreCompileInputs.cache
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_3\obj\Debug\_0523_3.exe
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_3\obj\Debug\_0523_3.pdb

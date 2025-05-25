@@ -16,6 +16,7 @@ internal class _0523_3_hard_1
         playerCard1 = rand.Next(1, 14);
 
         playerCard2 = rand.Next(1, 14);
+        /*
         if (playerCard1 == playerCard2)
         {
             bool same1 = true;
@@ -32,10 +33,11 @@ internal class _0523_3_hard_1
                     same1 = false;
                 }
             }
-        }
+        }*/
         int arraySum = 0;
         comArray[0] = rand.Next(1, 14);
         comArray[1] = rand.Next(1, 14);
+        /*
         if (comArray[0] == comArray[1])
         {
             bool same = true;
@@ -79,7 +81,7 @@ internal class _0523_3_hard_1
         {
 
         }
-
+        */
 
         /*
         comCard1 = rand.Next(1, 14);

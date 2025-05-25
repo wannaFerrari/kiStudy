@@ -6,3 +6,10 @@ C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpPractice\_0522\obj\Debu
 C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpPractice\_0522\obj\Debug\_0522.exe
 C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpPractice\_0522\obj\Debug\_0522.pdb
 C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpPractice\_0522\obj\Debug\_0522.exe.config
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0522\bin\Debug\_0522.exe.config
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0522\bin\Debug\_0522.exe
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0522\bin\Debug\_0522.pdb
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0522\obj\Debug\_0522.csproj.AssemblyReference.cache
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0522\obj\Debug\_0522.csproj.CoreCompileInputs.cache
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0522\obj\Debug\_0522.exe
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0522\obj\Debug\_0522.pdb

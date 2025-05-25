@@ -15,6 +15,7 @@ internal class _0523_3
         playerCard1 = rand.Next(1, 14);
         
         playerCard2 = rand.Next(1, 14);
+        /*
         if (playerCard1 == playerCard2)
         {
             bool same1 = true;
@@ -32,9 +33,10 @@ internal class _0523_3
                 }
             }
         }
-
+        */
         comCard1 = rand.Next(1, 14);
         comCard2 = rand.Next(1, 14);
+        /*
         if (comCard1 == comCard2)
         {
             bool same2 = true;
@@ -52,7 +54,7 @@ internal class _0523_3
                 }
             }
         }
-
+        */
         Console.WriteLine($"나의 카드 : {playerCard1}, {playerCard2}");
         Console.WriteLine("1.더받기 2.스테이 : ");
         int inputNum = Convert.ToInt32(Console.ReadLine());
@@ -61,7 +63,7 @@ internal class _0523_3
             playerCard3 = rand.Next(1, 14);
             bool same3 = true;
 
-            
+            /*
             while (same3)
             {
 
@@ -75,7 +77,7 @@ internal class _0523_3
                     same3 = false;
                 }
             }
-
+            */
             int mySum = playerCard1 + playerCard2 + playerCard3;
             int comSum = comCard1 + comCard2;
 
