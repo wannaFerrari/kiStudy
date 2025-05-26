@@ -5,3 +5,11 @@ F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523
 F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\obj\Debug\_0523_4_hard.csproj.CoreCompileInputs.cache
 F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\obj\Debug\_0523_4_hard.exe
 F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\obj\Debug\_0523_4_hard.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\bin\Debug\_0523_4_hard.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\bin\Debug\_0523_4_hard.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\bin\Debug\_0523_4_hard.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\obj\Debug\_0523_4_hard.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\obj\Debug\_0523_4_hard.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\obj\Debug\_0523_4_hard.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\obj\Debug\_0523_4_hard.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0523_4_hard\obj\Debug\_0523_4_hard.pdb

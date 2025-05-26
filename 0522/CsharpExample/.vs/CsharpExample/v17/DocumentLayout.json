@@ -1,29 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\",
+  "WorkspaceRootPath": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{134476D5-CB68-4E84-BF8E-ECB43BF45E72}|04.Array\\04.Array.csproj|C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\04.array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{134476D5-CB68-4E84-BF8E-ECB43BF45E72}|04.Array\\04.Array.csproj|solutionrelative:04.array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD70418A-D472-46B2-BBF6-751FAE169CEB}|06.Method\\06.Method.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharpexample\\06.method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD70418A-D472-46B2-BBF6-751FAE169CEB}|06.Method\\06.Method.csproj|solutionrelative:06.method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2871AED-8B27-4C99-899A-DFAD65E41BE5}|05.Loop\\05.Loop.csproj|c:\\users\\kga\\documents\\git repository\\kistudy\\kistudy\\0522\\csharpexample\\05.loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2871AED-8B27-4C99-899A-DFAD65E41BE5}|05.Loop\\05.Loop.csproj|solutionrelative:05.loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B295C54-D560-438E-AFED-7BFCED181CE1}|_0524_practice\\_0524_practice.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharpexample\\_0524_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B295C54-D560-438E-AFED-7BFCED181CE1}|_0524_practice\\_0524_practice.csproj|solutionrelative:_0524_practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB3EBA9C-D4E4-4C40-9062-BF1E1B0EE122}|00.InputOutput\\00.InputOutput.csproj|C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\00.inputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB3EBA9C-D4E4-4C40-9062-BF1E1B0EE122}|00.InputOutput\\00.InputOutput.csproj|solutionrelative:00.inputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4BA2BA4-BC0D-4C41-9578-4DAF90929D1E}|03.Conditional\\03.Conditional.csproj|C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\03.conditional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4BA2BA4-BC0D-4C41-9578-4DAF90929D1E}|03.Conditional\\03.Conditional.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\03.conditional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4BA2BA4-BC0D-4C41-9578-4DAF90929D1E}|03.Conditional\\03.Conditional.csproj|solutionrelative:03.conditional\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F4D9F39-C75A-46CE-A8E1-F3215EEA9A19}|002.Operator\\002.Operator.csproj|C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\002.operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8F4D9F39-C75A-46CE-A8E1-F3215EEA9A19}|002.Operator\\002.Operator.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\002.operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F4D9F39-C75A-46CE-A8E1-F3215EEA9A19}|002.Operator\\002.Operator.csproj|solutionrelative:002.operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{857D4159-904C-4CCE-B5E6-DED3F861FB6B}|01.DataType\\01.DataType.csproj|C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\01.datatype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB3EBA9C-D4E4-4C40-9062-BF1E1B0EE122}|00.InputOutput\\00.InputOutput.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\00.inputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB3EBA9C-D4E4-4C40-9062-BF1E1B0EE122}|00.InputOutput\\00.InputOutput.csproj|solutionrelative:00.inputoutput\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134476D5-CB68-4E84-BF8E-ECB43BF45E72}|04.Array\\04.Array.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharpexample\\04.array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134476D5-CB68-4E84-BF8E-ECB43BF45E72}|04.Array\\04.Array.csproj|solutionrelative:04.array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2871AED-8B27-4C99-899A-DFAD65E41BE5}|05.Loop\\05.Loop.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\05.loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2871AED-8B27-4C99-899A-DFAD65E41BE5}|05.Loop\\05.Loop.csproj|solutionrelative:05.loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{857D4159-904C-4CCE-B5E6-DED3F861FB6B}|01.DataType\\01.DataType.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\01.datatype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{857D4159-904C-4CCE-B5E6-DED3F861FB6B}|01.DataType\\01.DataType.csproj|solutionrelative:01.datatype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,81 +46,109 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\05.Loop\\Program.cs",
-              "RelativeDocumentMoniker": "05.Loop\\Program.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\05.Loop\\Program.cs",
-              "RelativeToolTip": "05.Loop\\Program.cs",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAowLIAAAALAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\_0524_practice\\Program.cs",
+              "RelativeDocumentMoniker": "_0524_practice\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\_0524_practice\\Program.cs",
+              "RelativeToolTip": "_0524_practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T04:23:08.251Z",
+              "WhenOpened": "2025-05-26T04:57:46.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\04.Array\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\06.Method\\Program.cs",
+              "RelativeDocumentMoniker": "06.Method\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\06.Method\\Program.cs",
+              "RelativeToolTip": "06.Method\\Program.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAwLQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T04:12:57.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\04.Array\\Program.cs",
               "RelativeDocumentMoniker": "04.Array\\Program.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\04.Array\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\04.Array\\Program.cs",
               "RelativeToolTip": "04.Array\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAlwIIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T01:37:34.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\03.Conditional\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\03.Conditional\\Program.cs",
               "RelativeDocumentMoniker": "03.Conditional\\Program.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\03.Conditional\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\03.Conditional\\Program.cs",
               "RelativeToolTip": "03.Conditional\\Program.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAowHoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwHoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T06:35:30.948Z"
+              "WhenOpened": "2025-05-22T06:35:30.948Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\002.Operator\\Program.cs",
-              "RelativeDocumentMoniker": "002.Operator\\Program.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\002.Operator\\Program.cs",
-              "RelativeToolTip": "002.Operator\\Program.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAowIUAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\00.InputOutput\\Program.cs",
+              "RelativeDocumentMoniker": "00.InputOutput\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\00.InputOutput\\Program.cs",
+              "RelativeToolTip": "00.InputOutput\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T05:15:51.137Z"
+              "WhenOpened": "2025-05-22T00:37:33.832Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\01.DataType\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\05.Loop\\Program.cs",
+              "RelativeDocumentMoniker": "05.Loop\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\05.Loop\\Program.cs",
+              "RelativeToolTip": "05.Loop\\Program.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAowLIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T04:23:08.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\002.Operator\\Program.cs",
+              "RelativeDocumentMoniker": "002.Operator\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\002.Operator\\Program.cs",
+              "RelativeToolTip": "002.Operator\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowIUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T05:15:51.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\01.DataType\\Program.cs",
               "RelativeDocumentMoniker": "01.DataType\\Program.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\01.DataType\\Program.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\01.DataType\\Program.cs",
               "RelativeToolTip": "01.DataType\\Program.cs",
               "ViewState": "AgIAAL0AAAAAAAAAAAAowNwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T01:30:13.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\00.InputOutput\\Program.cs",
-              "RelativeDocumentMoniker": "00.InputOutput\\Program.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\Git Repository\\KiStudy\\kiStudy\\0522\\CsharpExample\\00.InputOutput\\Program.cs",
-              "RelativeToolTip": "00.InputOutput\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAwCwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T00:37:33.832Z"
             }
           ]
         }
