@@ -22,11 +22,11 @@ internal class _0526_exception_2
             return 1;
         }
     }
-
+    /*
     static int Fibonacci(int i)
     {
         
         
-    }
+    }*/
 }
 

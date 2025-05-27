@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\07.UserDefinedTypes\bin\Debug\07.UserDefinedTypes.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\07.UserDefinedTypes\bin\Debug\07.UserDefinedTypes.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\07.UserDefinedTypes\bin\Debug\07.UserDefinedTypes.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\07.UserDefinedTypes\obj\Debug\07.UserDefinedTypes.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\07.UserDefinedTypes\obj\Debug\07.UserDefinedTypes.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\07.UserDefinedTypes\obj\Debug\07.UserDefinedTypes.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\07.UserDefinedTypes\obj\Debug\07.UserDefinedTypes.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\07.UserDefinedTypes\obj\Debug\07.UserDefinedTypes.exe.config

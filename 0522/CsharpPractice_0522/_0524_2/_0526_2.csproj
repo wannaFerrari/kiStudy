@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\_0526_2\_0526_2.cs">
-      <Link>_0526_2.cs</Link>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="_0526_2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

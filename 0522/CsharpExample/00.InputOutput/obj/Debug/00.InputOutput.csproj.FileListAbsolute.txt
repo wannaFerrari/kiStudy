@@ -6,3 +6,11 @@ C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\00.InputOutput\
 C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\00.InputOutput\obj\Debug\00.InputOutput.exe
 C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\00.InputOutput\obj\Debug\00.InputOutput.pdb
 C:\Users\KGA\Documents\Visual Studio 2022\Projects\CsharpExample\00.InputOutput\obj\Debug\00.InputOutput.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\00.InputOutput\bin\Debug\00.InputOutput.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\00.InputOutput\bin\Debug\00.InputOutput.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\00.InputOutput\bin\Debug\00.InputOutput.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\00.InputOutput\obj\Debug\00.InputOutput.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\00.InputOutput\obj\Debug\00.InputOutput.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\00.InputOutput\obj\Debug\00.InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\00.InputOutput\obj\Debug\00.InputOutput.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\00.InputOutput\obj\Debug\00.InputOutput.pdb

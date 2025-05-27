@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\08.UserDefinedTypes_Struct\bin\Debug\08.UserDefinedTypes_Struct.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\08.UserDefinedTypes_Struct\bin\Debug\08.UserDefinedTypes_Struct.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\08.UserDefinedTypes_Struct\bin\Debug\08.UserDefinedTypes_Struct.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\08.UserDefinedTypes_Struct\obj\Debug\08.UserDefinedTypes_Struct.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\08.UserDefinedTypes_Struct\obj\Debug\08.UserDefinedTypes_Struct.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\08.UserDefinedTypes_Struct\obj\Debug\08.UserDefinedTypes_Struct.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\08.UserDefinedTypes_Struct\obj\Debug\08.UserDefinedTypes_Struct.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\08.UserDefinedTypes_Struct\obj\Debug\08.UserDefinedTypes_Struct.exe.config
