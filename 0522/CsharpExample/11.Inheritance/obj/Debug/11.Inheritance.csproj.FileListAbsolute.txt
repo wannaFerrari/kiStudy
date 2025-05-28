@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\11.Inheritance\bin\Debug\11.Inheritance.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\11.Inheritance\bin\Debug\11.Inheritance.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\11.Inheritance\bin\Debug\11.Inheritance.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\11.Inheritance\obj\Debug\11.Inheritance.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\11.Inheritance\obj\Debug\11.Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\11.Inheritance\obj\Debug\11.Inheritance.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\11.Inheritance\obj\Debug\11.Inheritance.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\11.Inheritance\obj\Debug\11.Inheritance.exe.config
