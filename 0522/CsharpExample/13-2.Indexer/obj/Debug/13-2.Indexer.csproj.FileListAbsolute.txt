@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-2.Indexer\bin\Debug\13-2.Indexer.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-2.Indexer\bin\Debug\13-2.Indexer.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-2.Indexer\bin\Debug\13-2.Indexer.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-2.Indexer\obj\Debug\13-2.Indexer.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-2.Indexer\obj\Debug\13-2.Indexer.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-2.Indexer\obj\Debug\13-2.Indexer.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-2.Indexer\obj\Debug\13-2.Indexer.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-2.Indexer\obj\Debug\13-2.Indexer.exe.config

@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\12.Interface\bin\Debug\12.Interface.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\12.Interface\bin\Debug\12.Interface.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\12.Interface\bin\Debug\12.Interface.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\12.Interface\obj\Debug\12.Interface.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\12.Interface\obj\Debug\12.Interface.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\12.Interface\obj\Debug\12.Interface.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\12.Interface\obj\Debug\12.Interface.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\12.Interface\obj\Debug\12.Interface.exe.config

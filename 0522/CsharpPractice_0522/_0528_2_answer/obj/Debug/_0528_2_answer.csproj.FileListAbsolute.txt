@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0528_2_answer\bin\Debug\_0528_2_answer.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0528_2_answer\bin\Debug\_0528_2_answer.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0528_2_answer\bin\Debug\_0528_2_answer.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0528_2_answer\obj\Debug\_0528_2_answer.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0528_2_answer\obj\Debug\_0528_2_answer.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0528_2_answer\obj\Debug\_0528_2_answer.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0528_2_answer\obj\Debug\_0528_2_answer.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0528_2_answer\obj\Debug\_0528_2_answer.exe.config

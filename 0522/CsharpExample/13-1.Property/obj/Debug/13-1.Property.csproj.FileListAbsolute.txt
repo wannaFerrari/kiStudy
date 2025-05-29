@@ -1,0 +1,7 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-1.Property\bin\Debug\13-1.Property.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-1.Property\bin\Debug\13-1.Property.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-1.Property\bin\Debug\13-1.Property.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-1.Property\obj\Debug\13-1.Property.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-1.Property\obj\Debug\13-1.Property.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-1.Property\obj\Debug\13-1.Property.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\13-1.Property\obj\Debug\13-1.Property.pdb
