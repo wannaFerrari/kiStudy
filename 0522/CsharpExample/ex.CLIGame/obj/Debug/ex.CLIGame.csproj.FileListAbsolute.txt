@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\ex.CLIGame\bin\Debug\ex.CLIGame.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\ex.CLIGame\bin\Debug\ex.CLIGame.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\ex.CLIGame\bin\Debug\ex.CLIGame.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\ex.CLIGame\obj\Debug\ex.CLIGame.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\ex.CLIGame\obj\Debug\ex.CLIGame.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\ex.CLIGame\obj\Debug\ex.CLIGame.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\ex.CLIGame\obj\Debug\ex.CLIGame.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\ex.CLIGame\obj\Debug\ex.CLIGame.exe.config

@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0530_1\bin\Debug\_0530_1.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0530_1\bin\Debug\_0530_1.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0530_1\bin\Debug\_0530_1.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0530_1\obj\Debug\_0530_1.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0530_1\obj\Debug\_0530_1.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0530_1\obj\Debug\_0530_1.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0530_1\obj\Debug\_0530_1.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0530_1\obj\Debug\_0530_1.exe.config
