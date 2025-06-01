@@ -1,0 +1,7 @@
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0530_3\bin\Debug\_0530_3.exe.config
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0530_3\bin\Debug\_0530_3.exe
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0530_3\bin\Debug\_0530_3.pdb
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0530_3\obj\Debug\_0530_3.csproj.AssemblyReference.cache
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0530_3\obj\Debug\_0530_3.csproj.CoreCompileInputs.cache
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0530_3\obj\Debug\_0530_3.exe
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0530_3\obj\Debug\_0530_3.pdb
