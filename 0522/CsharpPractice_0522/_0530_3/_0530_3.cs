@@ -285,6 +285,8 @@ namespace _0530_3
                         PaintDot(cursorX, cursorY, (Color)currentColor);
                         matrix[cursorX - minCanvasX,cursorY - minCanvasY] = currentColor;
                         break;
+                    case ConsoleKey.Escape:
+                        return;
 
                 }
                 PaintCurrentColor((Color)currentColor);
