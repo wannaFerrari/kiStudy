@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data.SqlTypes;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -27,6 +28,160 @@ namespace CLI_Game_Project1
                 for (int j =0;  j < 9; j++)
                 {
                     answer[i,j] = matrix[i, j];
+                }
+            }
+        }
+
+        public void DrawXMark()
+        {
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.SetCursorPosition(60, 21);
+            Console.Write($"            ■■                   ■■    ");
+            Console.SetCursorPosition(60, 22);
+            Console.Write($"              ■■               ■■      ");
+            Console.SetCursorPosition(60, 23);
+            Console.Write($"                ■■           ■■        ");
+            Console.SetCursorPosition(60, 24);
+            Console.Write($"                  ■■       ■■        ");
+            Console.SetCursorPosition(60, 25);
+            Console.Write($"                    ■■   ■■            ");
+            Console.SetCursorPosition(60, 26);
+            Console.Write($"                      ■■■■      ");
+            Console.SetCursorPosition(60, 27);
+            Console.Write($"                    ■■   ■■       ");
+            Console.SetCursorPosition(60, 28);
+            Console.Write($"                  ■■       ■■     ");
+            Console.SetCursorPosition(60, 29);
+            Console.Write($"                ■■           ■■     ");
+            Console.SetCursorPosition(60, 30);
+            Console.Write($"              ■■               ■■     ");
+            Console.SetCursorPosition(60, 31);
+            Console.Write($"            ■■                   ■■    ");
+            Console.ResetColor();
+        }
+
+        public void DrawOMark()
+        {
+            EraseMark();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.SetCursorPosition(60, 23);
+            Console.Write($"                        ■■■■            ");
+            Console.SetCursorPosition(60, 24);
+            Console.Write($"                   ■■■■■■■■■              ");
+            Console.SetCursorPosition(60, 25);
+            Console.Write($"               ■■■                ■■■                ");
+            Console.SetCursorPosition(60, 26);
+            Console.Write($"            ■■■                      ■■■             ");
+            Console.SetCursorPosition(60, 27);
+            Console.Write($"          ■■■                          ■■■                    ");
+            Console.SetCursorPosition(60, 28);
+            Console.Write($"        ■■■                              ■■■                     ");
+            Console.SetCursorPosition(60, 29);
+            Console.Write($"          ■■■                          ■■■                    ");
+            Console.SetCursorPosition(60, 30);
+            Console.Write($"            ■■■                    ■■■                  ");
+            Console.SetCursorPosition(60, 31);
+            Console.Write($"               ■■■              ■■■                ");
+            Console.SetCursorPosition(60, 32);
+            Console.Write($"                   ■■■■■■■■■              ");
+            Console.SetCursorPosition(60, 33);
+            Console.Write($"                        ■■■■            ");
+            Console.ResetColor();
+        }
+
+        public void EraseMark()
+        {
+            Console.SetCursorPosition(60, 21);
+            Console.Write($"                                           ");
+            Console.SetCursorPosition(60, 22);
+            Console.Write($"                                          ");
+            Console.SetCursorPosition(60, 23);
+            Console.Write($"                                        ");
+            Console.SetCursorPosition(60, 24);
+            Console.Write($"                                         ");
+            Console.SetCursorPosition(60, 25);
+            Console.Write($"                                        ");
+            Console.SetCursorPosition(60, 26);
+            Console.Write($"                                      ");
+            Console.SetCursorPosition(60, 27);
+            Console.Write($"                                      ");
+            Console.SetCursorPosition(60, 28);
+            Console.Write($"                                      ");
+            Console.SetCursorPosition(60, 29);
+            Console.Write($"                                      ");
+            Console.SetCursorPosition(60, 30);
+            Console.Write($"                                       ");
+            Console.SetCursorPosition(60, 31);
+            Console.Write($"                                      ");
+            Console.Write($"                                      ");
+        }
+
+        public void ShowTime(string time)
+        {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.SetCursorPosition(59, 2);
+            Console.Write("┌────────────────────────────────────────────────────┐");
+            Console.SetCursorPosition(59, 3);
+            Console.Write("│                                                    │");
+            Console.SetCursorPosition(59, 4);
+            Console.Write("│                                                    │");
+            Console.SetCursorPosition(59, 5);
+            Console.Write("│                                                    │");
+            Console.SetCursorPosition(59, 6);
+            Console.Write("└────────────────────────────────────────────────────┘");
+
+            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.SetCursorPosition(75, 4);
+            Console.Write($"경과 시간 : {time}");
+
+
+            ShowInformation();
+
+        }
+
+        public void ShowInformation()
+        {
+            Console.SetCursorPosition(59, 1);
+            Console.Write("                                                                 ");
+            Console.SetCursorPosition(59, 11);
+            Console.Write("┌────────────────────────────────────────────────────┐");
+            Console.SetCursorPosition(59, 12);
+            Console.Write("│                                                    │");
+            Console.SetCursorPosition(59, 13);
+            Console.Write("│                                                    │");
+            Console.SetCursorPosition(59, 14);
+            Console.Write("└────────────────────────────────────────────────────┘");
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.SetCursorPosition(67, 13);
+            Console.Write($"Enter 키를 눌러 메인 화면으로 돌아가기");
+        }
+
+        public void ShowInformationInAnswer()
+        {
+            Console.SetCursorPosition(59, 21);
+            Console.Write("┌────────────────────────────────────────────────────┐");
+            Console.SetCursorPosition(59, 22);
+            Console.Write("│                                                    │");
+            Console.SetCursorPosition(59, 23);
+            Console.Write("│                                                    │");
+            Console.SetCursorPosition(59, 24);
+            Console.Write("└────────────────────────────────────────────────────┘");
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.SetCursorPosition(73, 22);
+            Console.Write($"< 정답을 출력하였습니다 >");
+            Console.SetCursorPosition(72, 23);
+            Console.Write($"다음 기회엔 꼭 성공해보세요!");
+        }
+
+        public void WriteAllAnswers()
+        {
+            for (int i = 0; i < 9; i++)
+            {
+                for (int j = 0; j < 9; j++)
+                {
+                    matrix[i, j] = answer[i, j];
                 }
             }
         }
@@ -68,7 +223,7 @@ namespace CLI_Game_Project1
                     {
                         if (canChange[i, j] == false)
                         {
-                            Console.ForegroundColor = ConsoleColor.Yellow;
+                            Console.ForegroundColor = ConsoleColor.DarkYellow;
                         }
                         Console.Write(matrix[i, j]);
                         Console.ResetColor();
@@ -142,18 +297,18 @@ namespace CLI_Game_Project1
             Console.SetCursorPosition(3, 12);
             Console.Write("├");
             Console.SetCursorPosition(21, 12);
-            Console.Write("┼");
+            Console.Write("╂");
             Console.SetCursorPosition(39, 12);
-            Console.Write("┼");
+            Console.Write("╂");
             Console.SetCursorPosition(57, 12);
             Console.Write("┤");
 
             Console.SetCursorPosition(3, 24);
             Console.Write("├");
             Console.SetCursorPosition(21, 24);
-            Console.Write("┼");
+            Console.Write("╂");
             Console.SetCursorPosition(39, 24);
-            Console.Write("┼");
+            Console.Write("╂");
             Console.SetCursorPosition(57, 24);
             Console.Write("┤");
 
@@ -166,21 +321,27 @@ namespace CLI_Game_Project1
             Console.SetCursorPosition(57, 36);
             Console.Write("┘");
 
-            Console.SetCursorPosition(60, 12);
+            Console.SetCursorPosition(59, 11);
+            Console.Write("┌────────────────────────────────────────────────────┐");
+            Console.SetCursorPosition(59, 12);
+            Console.Write("│                                                    │");
+            Console.SetCursorPosition(59, 13);
+            Console.Write("│                                                    │");
+            Console.SetCursorPosition(59, 14);
+            Console.Write("└────────────────────────────────────────────────────┘");
+
+            Console.SetCursorPosition(61, 12);
             Console.Write($"남은 빈칸의 수 : {EmptyCount()}");
 
-            Console.SetCursorPosition(60, 15);
+            Console.SetCursorPosition(61, 13);
             Console.Write($"이동: 화살표   숫자입력: 숫자키   지우기: BackSpace");
 
+            Console.SetCursorPosition(65, 1);
+            Console.Write($"제출하기: Enter   정답보기: Q    메인메뉴로 나가기: M");
 
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
+
+
+
 
         }
 
@@ -468,13 +629,331 @@ namespace CLI_Game_Project1
 
     internal class Program
     {
+        enum Scene
+        {
+            Main,StartGame,End
+        }
+        static void ChangeScene()
+        {
+            Console.SetCursorPosition(0, 0);
+            for (int i = 0; i < 40; i++)
+            {
+                for(int j = 0; j < 120; j++)
+                {
+                    Console.BackgroundColor = ConsoleColor.White;
+                    Console.Write(" ");
+                }
+            }
+            Console.SetCursorPosition(0, 0);
+            for (int i = 0; i < 40; i++)
+            {
+                for (int j = 0; j < 120; j++)
+                {
+                    Console.ResetColor();
+                    Console.Write(" ");
+                }
+            }
+            Console.SetCursorPosition(0, 0);
+
+        }
+        static void Main()
+        {
+            Console.SetWindowSize(120, 43);
+            Console.CursorVisible = false;
+            ChangeScene();
+            int selectNum = 0;
+            
+
+            string sudokuString = @"
+                     ■■                         ■■■■■■■■■                    ■■■■■■■■■
+                  ■■  ■■                      ■■                                                ■■
+                ■■     ■■                     ■■                                                ■■
+              ■■         ■■                   ■■                                  ■■■■■■■■■
+             ■■           ■■                  ■■                                                ■■
+            ■■             ■■                 ■■■■■■■■■                                  ■■
+           ■■               ■■                                                                       
+                                                         ■■                         ■■■■■■■■■■■
+                                                         ■■                                   ■■        
+          ■■■■■■■■■■■■               ■■■■■■■■■■                           ■■       ";
+            Console.SetCursorPosition(30, 7);
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.Write(sudokuString);
+
+            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.SetCursorPosition(0, 0);
+            Console.Write("┌");
+            for (int i = 0; i < 117; i++)
+            {
+                Console.Write("─");
+
+            }
+            Console.WriteLine("┐");
+
+            for (int i = 0; i < 35; i++)
+            {
+                Console.Write("│");
+                Console.SetCursorPosition(118, i + 1);
+                Console.WriteLine("│");
+            }
+
+            Console.Write("└");
+            for (int i = 0; i < 117; i++)
+            {
+                Console.Write("─");
+
+            }
+            Console.WriteLine("┘");
+
+            ///////////// 쉬움
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.SetCursorPosition(17, 25);
+            Console.Write("┌");
+            for(int i = 0; i < 20; i++)
+            {
+                Console.Write("─");
+            }
+            Console.Write("┐");
+
+            Console.SetCursorPosition(17, 26);
+            Console.Write("│");
+            Console.SetCursorPosition(38, 26);
+            Console.Write("│");
+            Console.SetCursorPosition(17, 27);
+            Console.Write("│");
+            Console.SetCursorPosition(38, 27);
+            Console.Write("│");
+            Console.SetCursorPosition(17, 28);
+            Console.Write("│");
+            Console.SetCursorPosition(38, 28);
+            Console.Write("│");
+
+            Console.SetCursorPosition(17, 29);
+            Console.Write("└");
+            for (int i = 0; i < 20; i++)
+            {
+                Console.Write("─");
+            }
+            Console.Write("┘");
+            Console.SetCursorPosition(26, 27);
+            Console.Write("쉬 움");
+            ////////////////////// 쉬움
+
+            ///////////// 보통
+            ///
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.SetCursorPosition(47, 25);
+            Console.Write("┌");
+            for (int i = 0; i < 20; i++)
+            {
+                Console.Write("─");
+            }
+            Console.Write("┐");
+
+            Console.SetCursorPosition(47, 26);
+            Console.Write("│");
+            Console.SetCursorPosition(68, 26);
+            Console.Write("│");
+            Console.SetCursorPosition(47, 27);
+            Console.Write("│");
+            Console.SetCursorPosition(68, 27);
+            Console.Write("│");
+            Console.SetCursorPosition(47, 28);
+            Console.Write("│");
+            Console.SetCursorPosition(68, 28);
+            Console.Write("│");
+
+            Console.SetCursorPosition(47, 29);
+            Console.Write("└");
+            for (int i = 0; i < 20; i++)
+            {
+                Console.Write("─");
+            }
+            Console.Write("┘");
+            Console.SetCursorPosition(56, 27);
+            Console.Write("보 통");
+            ////////////////////// 보통
+
+            ///////////// 어려움
+            Console.ForegroundColor= ConsoleColor.Red;
+            Console.SetCursorPosition(77, 25);
+            Console.Write("┌");
+            for (int i = 0; i < 20; i++)
+            {
+                Console.Write("─");
+            }
+            Console.Write("┐");
+
+            Console.SetCursorPosition(77, 26);
+            Console.Write("│");
+            Console.SetCursorPosition(98, 26);
+            Console.Write("│");
+            Console.SetCursorPosition(77, 27);
+            Console.Write("│");
+            Console.SetCursorPosition(98, 27);
+            Console.Write("│");
+            Console.SetCursorPosition(77, 28);
+            Console.Write("│");
+            Console.SetCursorPosition(98, 28);
+            Console.Write("│");
+
+            Console.SetCursorPosition(77, 29);
+            Console.Write("└");
+            for (int i = 0; i < 20; i++)
+            {
+                Console.Write("─");
+            }
+            Console.Write("┘");
+            Console.SetCursorPosition(86, 27);
+            Console.Write("어려움");
+            ////////////////////// 어려움
+            ///
+            Console.ResetColor();
+            MoveSelectCursorInMain(selectNum);
+
+            while (true)
+            {
+                ConsoleKeyInfo key = Console.ReadKey();
+
+                switch (key.Key)
+                {
+                    case ConsoleKey.LeftArrow:
+                        if (selectNum != 0)
+                        {
+                            selectNum--;
+                            MoveSelectCursorInMain(selectNum);
+                        }
+                        
+                        break;
+                    case ConsoleKey.RightArrow:
+                        if (selectNum != 2)
+                        {
+                            selectNum++;
+                            MoveSelectCursorInMain(selectNum);
+                        }
+                        
+                        break;
+                    case ConsoleKey.Enter:
+                        ChangeScene();
+                        StartGame(selectNum);
+                        break;
 
 
+                }
+                
 
-        static void Main(string[] args)
+            }
+
+        }
+
+        static void MoveSelectCursorInMain(int select)
+        {
+            if(select == 0)
+            {
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                ///////////////쉬움
+                Console.SetCursorPosition(17, 24);
+                Console.Write("▼▼▼▼▼▼▼▼▼▼▼");
+                Console.SetCursorPosition(17, 30);
+                Console.Write("▲▲▲▲▲▲▲▲▲▲▲");
+
+                //////////////보통
+                Console.SetCursorPosition(47, 24);
+                Console.Write("                      ");
+                Console.SetCursorPosition(47, 30);
+                Console.Write("                      ");
+
+                /////////////////어려움
+                Console.SetCursorPosition(77, 24);
+                Console.Write("                      ");
+                Console.SetCursorPosition(77, 30);
+                Console.Write("                      ");
+            }
+            else if (select == 1)
+            {
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                ///////////////쉬움
+                Console.SetCursorPosition(17, 24);
+                Console.Write("                      ");
+                Console.SetCursorPosition(17, 30);
+                Console.Write("                      ");
+
+                //////////////보통
+                Console.SetCursorPosition(47, 24);
+                Console.Write("▼▼▼▼▼▼▼▼▼▼▼");
+                Console.SetCursorPosition(47, 30);
+                Console.Write("▲▲▲▲▲▲▲▲▲▲▲");
+
+                /////////////////어려움
+                Console.SetCursorPosition(77, 24);
+                Console.Write("                      ");
+                Console.SetCursorPosition(77, 30);
+                Console.Write("                      ");
+            }
+            else if (select == 2)
+            {
+                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                ///////////////쉬움
+                Console.SetCursorPosition(17, 24);
+                Console.Write("                      ");
+                Console.SetCursorPosition(17, 30);
+                Console.Write("                      ");
+
+                //////////////보통
+                Console.SetCursorPosition(47, 24);
+                Console.Write("                      ");
+                Console.SetCursorPosition(47, 30);
+                Console.Write("                      ");
+
+                /////////////////어려움
+                Console.SetCursorPosition(77, 24);
+                Console.Write("▼▼▼▼▼▼▼▼▼▼▼");
+                Console.SetCursorPosition(77, 30);
+                Console.Write("▲▲▲▲▲▲▲▲▲▲▲");
+            }
+            /*
+            Console.ForegroundColor = ConsoleColor.DarkYellow;
+            ///////////////쉬움
+            Console.SetCursorPosition(17, 24);
+            Console.Write("▼▼▼▼▼▼▼▼▼▼▼");
+            Console.SetCursorPosition(17, 30);
+            Console.Write("▲▲▲▲▲▲▲▲▲▲▲");
+
+            //////////////보통
+            Console.SetCursorPosition(46, 24);
+            Console.Write("▼▼▼▼▼▼▼▼▼▼▼");
+            Console.SetCursorPosition(46, 30);
+            Console.Write("▲▲▲▲▲▲▲▲▲▲▲");
+
+            /////////////////어려움
+            Console.SetCursorPosition(75, 24);
+            Console.Write("▼▼▼▼▼▼▼▼▼▼▼");
+            Console.SetCursorPosition(75, 30);
+            Console.Write("▲▲▲▲▲▲▲▲▲▲▲");*/
+        }
+
+        
+
+        static void StartGame(int select)
         {
             int cursorX = 0;
             int cursorY = 0;
+            int difficulty = 0;
+
+            DateTime startTime = DateTime.Now;
+            DateTime endTime = DateTime.Now;
+            if(select == 0)
+            {
+                difficulty = 1;
+            }
+            else if(select == 1)
+            {
+                difficulty = 35;
+            }
+            else if(select == 2)
+            {
+                difficulty = 50;
+            }
+            Console.SetWindowSize(120, 43);
             //int[,] matrix = new int[9, 9];
             //int[,] answer = new int[9, 9];
             //bool[,] canChange = new bool[9, 9];
@@ -495,7 +974,7 @@ namespace CLI_Game_Project1
 
             // sdk.answer = sdk.matrix;
             sdk.MakeAnswer();
-            sdk.EraseMatrix(2);
+            sdk.EraseMatrix(difficulty);
 
             for (int i = 0; i < sdk.matrix.GetLength(0); i++)
             {
@@ -614,6 +1093,19 @@ namespace CLI_Game_Project1
                             sdk.matrix[cursorX, cursorY] = -1;
                         }
                         break;
+                    case ConsoleKey.Q:
+                        sdk.WriteAllAnswers();
+                        sdk.DrawBoard();
+                        cleared = true;
+                        sdk.ShowInformation();
+                        sdk.ShowInformationInAnswer();
+                        break;
+                    case ConsoleKey.M:
+                       
+                        cleared = true;
+                        ChangeScene();
+                        Main();
+                        break;
                     case ConsoleKey.Enter:
                         bool checkAnswer = sdk.CheckIsCorrect();
                         //bool a = sdk.CheckIsCorrect();
@@ -622,48 +1114,50 @@ namespace CLI_Game_Project1
                         
                         if(checkAnswer== true)
                         {
-                            Console.SetCursorPosition(60, 10);
+                            Console.SetCursorPosition(80, 35);
                             Console.Write($"정답입니다.");
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine(); Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            Console.WriteLine();
-                            return;
+                            Console.SetCursorPosition(80, 36);
+                            endTime = DateTime.Now;
+                            TimeSpan diff = startTime - endTime;
+                            String totalTime = string.Empty;
+                            totalTime = string.Format("{0:hh\\:mm\\:ss}", diff);
+                            //Console.Write(totalTime);
+                            sdk.DrawOMark();
+                            sdk.ShowTime(totalTime);
+                            cleared = true;
+                            
+                            //return;
                         }
                         else
                         {
-                            Console.SetCursorPosition(60, 10);
+                            Console.SetCursorPosition(80, 35);
                             Console.Write($"틀렸습니다.");
+                            sdk.DrawXMark();
                         }
                         break;
                 }
-                sdk.DrawBoard();
-                sdk.PaintCursorBox(cursorX, cursorY);
+
+                if (cleared != true)
+                {
+                    sdk.DrawBoard();
+                    sdk.PaintCursorBox(cursorX, cursorY);
+                }
+                else
+                {
+                    bool enterPressed = false;
+                    while (enterPressed == false)
+                    {
+                        ConsoleKeyInfo info2 = Console.ReadKey(true);
+                        switch (info2.Key)
+                        {
+                            case ConsoleKey.Enter:
+                                ChangeScene();
+                                Main();
+                                enterPressed = true;
+                                break;
+                        }
+                    }
+                }
 
 
             }

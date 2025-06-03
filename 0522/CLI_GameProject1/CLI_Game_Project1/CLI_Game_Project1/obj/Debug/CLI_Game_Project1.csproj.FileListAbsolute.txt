@@ -6,3 +6,10 @@ C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\CLI_GameProject1\CLI_Game_Projec
 C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\CLI_GameProject1\CLI_Game_Project1\CLI_Game_Project1\obj\Debug\CLI_Game_Project1.exe
 C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\CLI_GameProject1\CLI_Game_Project1\CLI_Game_Project1\obj\Debug\CLI_Game_Project1.pdb
 C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\CLI_GameProject1\CLI_Game_Project1\CLI_Game_Project1\obj\Debug\CLI_Game_Project1.exe.config
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject1\CLI_Game_Project1\CLI_Game_Project1\bin\Debug\CLI_Game_Project1.exe.config
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject1\CLI_Game_Project1\CLI_Game_Project1\bin\Debug\CLI_Game_Project1.exe
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject1\CLI_Game_Project1\CLI_Game_Project1\bin\Debug\CLI_Game_Project1.pdb
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject1\CLI_Game_Project1\CLI_Game_Project1\obj\Debug\CLI_Game_Project1.csproj.AssemblyReference.cache
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject1\CLI_Game_Project1\CLI_Game_Project1\obj\Debug\CLI_Game_Project1.csproj.CoreCompileInputs.cache
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject1\CLI_Game_Project1\CLI_Game_Project1\obj\Debug\CLI_Game_Project1.exe
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject1\CLI_Game_Project1\CLI_Game_Project1\obj\Debug\CLI_Game_Project1.pdb
