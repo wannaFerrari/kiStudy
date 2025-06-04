@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-2.GenericSearch\bin\Debug\14-2.GenericSearch.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-2.GenericSearch\bin\Debug\14-2.GenericSearch.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-2.GenericSearch\bin\Debug\14-2.GenericSearch.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-2.GenericSearch\obj\Debug\14-2.GenericSearch.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-2.GenericSearch\obj\Debug\14-2.GenericSearch.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-2.GenericSearch\obj\Debug\14-2.GenericSearch.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-2.GenericSearch\obj\Debug\14-2.GenericSearch.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-2.GenericSearch\obj\Debug\14-2.GenericSearch.exe.config

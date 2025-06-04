@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\CLI_GameProject1\\CLI_Game_Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CLI_GameProject1\\CLI_Game_Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAD46E22-9047-4980-A856-BD83CBCA60C7}|CLI_Game_Project1\\CLI_Game_Project1.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\cli_gameproject1\\cli_game_project1\\cli_game_project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DAD46E22-9047-4980-A856-BD83CBCA60C7}|CLI_Game_Project1\\CLI_Game_Project1.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\cli_gameproject1\\cli_game_project1\\cli_game_project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAD46E22-9047-4980-A856-BD83CBCA60C7}|CLI_Game_Project1\\CLI_Game_Project1.csproj|solutionrelative:cli_game_project1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\CLI_GameProject1\\CLI_Game_Project1\\CLI_Game_Project1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CLI_GameProject1\\CLI_Game_Project1\\CLI_Game_Project1\\Program.cs",
               "RelativeDocumentMoniker": "CLI_Game_Project1\\Program.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\CLI_GameProject1\\CLI_Game_Project1\\CLI_Game_Project1\\Program.cs*",
-              "RelativeToolTip": "CLI_Game_Project1\\Program.cs*",
-              "ViewState": "AgIAABwCAAAAAAAAAAAywHcBAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CLI_GameProject1\\CLI_Game_Project1\\CLI_Game_Project1\\Program.cs",
+              "RelativeToolTip": "CLI_Game_Project1\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAuwIcEAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T01:34:25.771Z",
               "EditorCaption": ""

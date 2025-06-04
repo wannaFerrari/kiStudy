@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-1.CollectionsWithGeneric\bin\Debug\14-1.CollectionsWithGeneric.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-1.CollectionsWithGeneric\bin\Debug\14-1.CollectionsWithGeneric.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-1.CollectionsWithGeneric\bin\Debug\14-1.CollectionsWithGeneric.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-1.CollectionsWithGeneric\obj\Debug\14-1.CollectionsWithGeneric.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-1.CollectionsWithGeneric\obj\Debug\14-1.CollectionsWithGeneric.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-1.CollectionsWithGeneric\obj\Debug\14-1.CollectionsWithGeneric.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-1.CollectionsWithGeneric\obj\Debug\14-1.CollectionsWithGeneric.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\14-1.CollectionsWithGeneric\obj\Debug\14-1.CollectionsWithGeneric.exe.config
