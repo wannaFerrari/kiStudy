@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-3.CallbackAndSpecifier\bin\Debug\16-3.CallbackAndSpecifier.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-3.CallbackAndSpecifier\bin\Debug\16-3.CallbackAndSpecifier.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-3.CallbackAndSpecifier\bin\Debug\16-3.CallbackAndSpecifier.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-3.CallbackAndSpecifier\obj\Debug\16-3.CallbackAndSpecifier.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-3.CallbackAndSpecifier\obj\Debug\16-3.CallbackAndSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-3.CallbackAndSpecifier\obj\Debug\16-3.CallbackAndSpecifier.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-3.CallbackAndSpecifier\obj\Debug\16-3.CallbackAndSpecifier.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-3.CallbackAndSpecifier\obj\Debug\16-3.CallbackAndSpecifier.exe.config

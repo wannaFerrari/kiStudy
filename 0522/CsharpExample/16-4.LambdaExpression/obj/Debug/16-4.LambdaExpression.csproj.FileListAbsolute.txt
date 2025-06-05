@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-4.LambdaExpression\bin\Debug\16-4.LambdaExpression.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-4.LambdaExpression\bin\Debug\16-4.LambdaExpression.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-4.LambdaExpression\bin\Debug\16-4.LambdaExpression.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-4.LambdaExpression\obj\Debug\16-4.LambdaExpression.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-4.LambdaExpression\obj\Debug\16-4.LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-4.LambdaExpression\obj\Debug\16-4.LambdaExpression.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-4.LambdaExpression\obj\Debug\16-4.LambdaExpression.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\16-4.LambdaExpression\obj\Debug\16-4.LambdaExpression.exe.config

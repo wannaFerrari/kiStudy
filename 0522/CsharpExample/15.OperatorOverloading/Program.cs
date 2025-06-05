@@ -99,6 +99,21 @@ namespace OperatorOverloading
         {
             return (left.x != right.x) || (left.y != right.y) || (left.z != right.z);
         }
+
+        //형변환 오버로딩
+        //명시적 형변환 : explicit
+        public static explicit operator Point2D(Point3D self)
+        {
+            Point2D @return = new Point2D(); ; // 키워드를 변수명 처럼 쓰고 싶을때 앞에 @ 붙이는게 C#의 관례
+            @return.x = self.x;
+            @return.y = self.y;
+            return @return;
+        }
+        //암시적 형변환 : implicit
+        public static implicit operator int(Point3D self)
+        {
+            return self.x + self.y + self.z;
+        }
     }
     internal class Program
     {
@@ -134,6 +149,17 @@ namespace OperatorOverloading
             Console.WriteLine(p1==p2);
             Console.WriteLine(p1!=p2);
             //point3 = point1 + point2;
+
+            Point3D _3dpoint = new Point3D();
+            _3dpoint.x = 29;
+            _3dpoint.y = 77;
+            _3dpoint.z = 14;
+
+            Point2D from3D = (Point2D)_3dpoint;
+
+            int intVar = _3dpoint;
+
+            Console.WriteLine($"x: {from3D.x}, y: {from3D.y}, intVar: {intVar} ");
 
         }
     }
