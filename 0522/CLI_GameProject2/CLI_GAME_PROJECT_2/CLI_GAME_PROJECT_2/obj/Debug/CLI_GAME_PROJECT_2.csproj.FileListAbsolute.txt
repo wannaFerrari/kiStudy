@@ -6,3 +6,10 @@ C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CLI_GameProject2\CLI_GAME_P
 C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CLI_GameProject2\CLI_GAME_PROJECT_2\CLI_GAME_PROJECT_2\obj\Debug\CLI_GAME_PROJECT_2.exe
 C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CLI_GameProject2\CLI_GAME_PROJECT_2\CLI_GAME_PROJECT_2\obj\Debug\CLI_GAME_PROJECT_2.pdb
 C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CLI_GameProject2\CLI_GAME_PROJECT_2\CLI_GAME_PROJECT_2\obj\Debug\CLI_GAME_PROJECT_2.exe.config
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject2\CLI_GAME_PROJECT_2\CLI_GAME_PROJECT_2\bin\Debug\CLI_GAME_PROJECT_2.exe.config
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject2\CLI_GAME_PROJECT_2\CLI_GAME_PROJECT_2\bin\Debug\CLI_GAME_PROJECT_2.exe
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject2\CLI_GAME_PROJECT_2\CLI_GAME_PROJECT_2\bin\Debug\CLI_GAME_PROJECT_2.pdb
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject2\CLI_GAME_PROJECT_2\CLI_GAME_PROJECT_2\obj\Debug\CLI_GAME_PROJECT_2.csproj.AssemblyReference.cache
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject2\CLI_GAME_PROJECT_2\CLI_GAME_PROJECT_2\obj\Debug\CLI_GAME_PROJECT_2.csproj.CoreCompileInputs.cache
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject2\CLI_GAME_PROJECT_2\CLI_GAME_PROJECT_2\obj\Debug\CLI_GAME_PROJECT_2.exe
+F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CLI_GameProject2\CLI_GAME_PROJECT_2\CLI_GAME_PROJECT_2\obj\Debug\CLI_GAME_PROJECT_2.pdb

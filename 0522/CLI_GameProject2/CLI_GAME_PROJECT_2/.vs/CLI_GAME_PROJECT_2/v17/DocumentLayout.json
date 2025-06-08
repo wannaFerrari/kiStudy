@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CLI_GameProject2\\CLI_GAME_PROJECT_2\\",
+  "WorkspaceRootPath": "F:\\KIAcademy\\visualStudioExample\u0026Practice\\kiStudy\\0522\\CLI_GameProject2\\CLI_GAME_PROJECT_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32A5BC3D-5EAA-4FF8-97D8-E54AF3A6B80F}|CLI_GAME_PROJECT_2\\CLI_GAME_PROJECT_2.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\cli_gameproject2\\cli_game_project_2\\cli_game_project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32A5BC3D-5EAA-4FF8-97D8-E54AF3A6B80F}|CLI_GAME_PROJECT_2\\CLI_GAME_PROJECT_2.csproj|f:\\kiacademy\\visualstudioexample\u0026practice\\kistudy\\0522\\cli_gameproject2\\cli_game_project_2\\cli_game_project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32A5BC3D-5EAA-4FF8-97D8-E54AF3A6B80F}|CLI_GAME_PROJECT_2\\CLI_GAME_PROJECT_2.csproj|solutionrelative:cli_game_project_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,17 +21,17 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CLI_GameProject2\\CLI_GAME_PROJECT_2\\CLI_GAME_PROJECT_2\\Program.cs",
+              "DocumentMoniker": "F:\\KIAcademy\\visualStudioExample\u0026Practice\\kiStudy\\0522\\CLI_GameProject2\\CLI_GAME_PROJECT_2\\CLI_GAME_PROJECT_2\\Program.cs",
               "RelativeDocumentMoniker": "CLI_GAME_PROJECT_2\\Program.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CLI_GameProject2\\CLI_GAME_PROJECT_2\\CLI_GAME_PROJECT_2\\Program.cs",
+              "ToolTip": "F:\\KIAcademy\\visualStudioExample\u0026Practice\\kiStudy\\0522\\CLI_GameProject2\\CLI_GAME_PROJECT_2\\CLI_GAME_PROJECT_2\\Program.cs",
               "RelativeToolTip": "CLI_GAME_PROJECT_2\\Program.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAkwKoAAAAnAAAAAAAAAA==",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAAKsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T07:07:07.228Z",
               "EditorCaption": ""
@@ -41,13 +41,10 @@
               "DocumentIndex": 1,
               "Title": "\uC18C\uC2A4.c",
               "DocumentMoniker": "C:\\Users\\KGA\\Downloads\\\uC18C\uC2A4.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Downloads\\\uC18C\uC2A4.c",
               "ToolTip": "C:\\Users\\KGA\\Downloads\\\uC18C\uC2A4.c",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Downloads\\\uC18C\uC2A4.c",
               "ViewState": "AgIAAI0AAAAAAAAAAAAAAEsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-06-05T07:07:36.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T07:07:36.281Z"
             }
           ]
         }

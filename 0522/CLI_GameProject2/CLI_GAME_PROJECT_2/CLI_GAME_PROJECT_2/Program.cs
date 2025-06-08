@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -14,20 +16,27 @@ namespace CLI_GAME_PROJECT_2
     {
         public static bool isPlaying = true;
         public static int playerPosition2 = 0;
+        public static bool bombTrigger = false;
         static void Main(string[] args)
         {
+            Stopwatch stopwatch = new Stopwatch();
             Thread inputThread = new Thread(CheckInput);
             inputThread.Start();
-
-
+            
+            //Thread timerThread = new Thread(PrintTimer);
+            //timerThread.Start();
+            
             Console.SetWindowSize(120, 30);
             Console.CursorVisible = false;
 
             int playerPosition = 0;
             const int moveAmount = 9;
             const int betweenLines = 4;
+            const int betweenRedLines = 4;
             int betweenLeft = 0;
             int nextLine = 0;
+            int afterLineForRedLine = 4;
+            
             //int[] screenLine = new int[20];
             List<int> screenLine = new List<int>();
             Random rand = new Random(DateTime.Now.Millisecond);
@@ -37,6 +46,7 @@ namespace CLI_GAME_PROJECT_2
                 screenLine.Add(0);
             }
             MovePlayer(playerPosition, playerPosition2, moveAmount);
+            stopwatch.Start();
             while (true)
             {
                 if(playerPosition2 != playerPosition)
@@ -49,19 +59,19 @@ namespace CLI_GAME_PROJECT_2
                 //screenLine[10] = 1;
                 for (int i = 19; i >= 0; i--)
                 {
-                    Console.SetCursorPosition(10, 20 - i);
+                    Console.SetCursorPosition(10, 22 - i);
                     if (screenLine[i] == 0)
                     {
                         Console.Write("                                                        ");
                     }
                     else if (screenLine[i] == 1)
                     {
-                        Console.Write("*********                                               ");
+                        Console.Write("  *********                                             ");
 
                     }
                     else if (screenLine[i] == 2)
                     {
-                        Console.Write("          *********                                     ");
+                        Console.Write("           *********                                    ");
 
                     }
                     else if (screenLine[i] == 3)
@@ -77,13 +87,88 @@ namespace CLI_GAME_PROJECT_2
                     else if (screenLine[i] == 5)
                     {
                         Console.Write("                                      *********         ");
-
                     }
                     else if (screenLine[i] == 6)
                     {
-                        Console.Write("                                               *********");
+                        Console.Write("                                              *********");
 
                     }
+                    else if (screenLine[i] == 7)
+                    {
+                        Console.Write("  *********         *********                           ");
+
+                    }
+                    else if (screenLine[i] == 8)
+                    {
+                        Console.Write("           *********         *********                  ");
+
+                    }
+                    else if (screenLine[i] == 9)
+                    {
+                        Console.Write("                    *********         *********         ");
+
+                    }
+                    else if (screenLine[i] == 10)
+                    {
+                        Console.Write("                             *********         *********");
+
+                    }
+
+                    else if (screenLine[i] == 11)
+                    {
+                        Console.Write("  *********         *********         *********         ");
+
+                    }
+                    else if (screenLine[i] == 12)
+                    {
+                        Console.Write("           *********         *********         *********");
+
+                    }
+                    else if (screenLine[i] == 13)
+                    {
+                        Console.Write("  ******************                  ******************");
+
+                    }
+                    else if (screenLine[i] == 14)
+                    {
+                        Console.ForegroundColor = ConsoleColor.DarkRed;
+                        Console.Write("  *********                                             ");
+                        Console.ResetColor();
+
+                    }
+                    else if (screenLine[i] == 15)
+                    {
+                        Console.ForegroundColor = ConsoleColor.DarkRed;
+                        Console.Write("           *********                                    ");
+                        Console.ResetColor();
+
+                    }
+                    else if (screenLine[i] == 16)
+                    {
+                        Console.ForegroundColor = ConsoleColor.DarkRed;
+                        Console.Write("                    *********                           ");
+                        Console.ResetColor();
+
+                    }
+                    else if (screenLine[i] == 17)
+                    {
+                        Console.ForegroundColor = ConsoleColor.DarkRed;
+                        Console.Write("                             *********                  ");
+                        Console.ResetColor();
+
+                    }
+                    else if (screenLine[i] == 18)
+                    {
+                        Console.ForegroundColor = ConsoleColor.DarkRed;
+                        Console.Write("                                      *********         ");
+                        Console.ResetColor();
+                    }
+                    else if (screenLine[i] == 19)
+                    {
+                        Console.Write("  ******************************************************");
+
+                    }
+                    
                 }
                 //Console.SetCursorPosition(11, 21);
                 //Console.Write("----");
@@ -98,9 +183,33 @@ namespace CLI_GAME_PROJECT_2
                 Console.SetCursorPosition(10 + playerPosition2 * moveAmount, 25);
                 Console.Write(" /\\   /\\ ");*/
                 screenLine.RemoveAt(0);
+
+                DrawOutLineOfGameBoard();
+                Console.SetCursorPosition(80, 5);
+                //TimeSpan duration = stopwatch.Elapsed;
+                Console.Write(stopwatch.Elapsed.ToString("hh\\:mm\\:ss\\.f"));
+                if(bombTrigger == true)
+                {
+                    //inputThread.Suspend();
+                    MiniGame(rand,inputThread);
+                    BombEffect();
+                    
+                    bombTrigger = false;
+                }
+                MovePlayer(playerPosition2, playerPosition2, moveAmount);
                 if (betweenLeft == 0)
                 {
-                    nextLine = rand.Next(0, 7);
+                    if(afterLineForRedLine == 0)
+                    {
+                        nextLine = rand.Next(1, 20);
+
+                        afterLineForRedLine = betweenRedLines;
+                    }
+                    else
+                    {
+                        nextLine = rand.Next(1, 14);
+                        afterLineForRedLine--;
+                    }
                     betweenLeft = betweenLines;
                 }
                 else
@@ -108,10 +217,10 @@ namespace CLI_GAME_PROJECT_2
                     nextLine = 0;
                 }
                 screenLine.Add(nextLine);
+                betweenLeft--;
                     //screenLine.Add(rand.Next(0, 5));
-                    betweenLeft--;
                 //Task.Delay(1000);
-                Thread.Sleep(100);
+                Thread.Sleep(50);
                 /*ConsoleKeyInfo key = Console.ReadKey();
                 switch (key.Key)
                 {
@@ -136,7 +245,7 @@ namespace CLI_GAME_PROJECT_2
         {
             while(isPlaying== true)
             {
-                ConsoleKeyInfo key = Console.ReadKey();
+                ConsoleKeyInfo key = Console.ReadKey(true);
                 switch (key.Key)
                 {
                     case ConsoleKey.LeftArrow:
@@ -151,6 +260,194 @@ namespace CLI_GAME_PROJECT_2
                             playerPosition2++;
                         }
                         break;
+                    case ConsoleKey.Spacebar:
+                        bombTrigger = true;
+                        break;
+                }
+            }
+        }
+
+        //public static bool CheckHit(int line, int pos)
+        //{
+        //    if (line == 0)
+        //    {
+        //        return false;
+        //    }
+        //    else if (line == 1)
+        //    {
+        //        if (pos == 0)
+        //        {
+        //            return true;
+        //        }
+        //        else
+        //        {
+        //            return false;
+        //        }
+        //    }
+        //    else if (line == 2)
+        //    {
+        //        if (pos == 1)
+        //        {
+        //            return true;
+        //        }
+        //        else
+        //        {
+        //            return false;
+        //        }
+        //    }
+        //    else if (line == 3)
+        //    {
+        //        if (pos == 2)
+        //        {
+        //            return true;
+        //        }
+        //        else
+        //        {
+        //            return false;
+        //        }
+        //    }
+        //    else if (line == 4)
+        //    {
+        //        if (pos == 3)
+        //        {
+        //            return true;
+        //        }
+        //        else
+        //        {
+        //            return false;
+        //        }
+        //    }
+        //    else if (line == 5)
+        //    {
+        //        if (pos == 4)
+        //        {
+        //            return true;
+        //        }
+        //        else
+        //        {
+        //            return false;
+        //        }
+        //    }
+        //    else if (line == 6)
+        //    {
+        //        if (pos == 5)
+        //        {
+        //            return true;
+        //        }
+        //        else
+        //        {
+        //            return false;
+        //        }
+        //    }
+        //    else if (line == 7)
+        //    {
+
+        //    }
+        //    else if (line == 8)
+        //    {
+
+        //    }
+        //    else if (line == 9)
+        //    {
+
+        //    }
+        //    else if (line == 10)
+        //    {
+
+        //    }
+        //    else if (line == 11)
+        //    {
+
+        //    }
+        //    else if (line == 12)
+        //    {
+
+        //    }
+        //    else if (line == 13)
+        //    {
+
+        //    }
+        //    else if (line == 14)
+        //    {
+
+        //    }
+        //    else if (line == 15)
+        //    {
+
+        //    }
+        //    else if (line == 16)
+        //    {
+
+        //    }
+        //    else if (line == 17)
+        //    {
+
+        //    }
+        //}
+        public static bool MiniGame(Random rand, Thread thread)
+        {
+           // thread.Join();
+            List<int> keyAnswer = new List<int>();
+            keyAnswer.Add(rand.Next(0, 4));
+            keyAnswer.Add(rand.Next(0, 4));
+            keyAnswer.Add(rand.Next(0, 4));
+            keyAnswer.Add(rand.Next(0, 4));
+            
+            for(int i = 0; i < keyAnswer.Count; i++)
+            {
+                if (keyAnswer[i] == 0)
+                {
+                    Console.SetCursorPosition(30 + 3*i, 15);
+                    Console.Write("A");
+                }
+                else if (keyAnswer[i] == 1)
+                {
+                    Console.SetCursorPosition(30 + 3 * i, 15);
+                    Console.Write("S");
+                }
+                else if (keyAnswer[i] == 2)
+                {
+                    Console.SetCursorPosition(30 + 3 * i, 15);
+                    Console.Write("D");
+                }
+                else if (keyAnswer[i] == 3)
+                {
+                    Console.SetCursorPosition(30 + 3 * i, 15);
+                    Console.Write("F");
+                }
+            }
+
+            for(int i = 0; i < 4; i++)
+            {
+                ConsoleKeyInfo consoleKeyInfo = Console.ReadKey();
+
+            }
+
+
+            return true;
+        } 
+
+        public static void BombEffect()
+        {
+            for(int i = 0; i < 23; i++)
+            {
+                for(int j = 0; j < 64;  j++)
+                {
+                    Console.SetCursorPosition(6 + j, 2 + i);
+                    Console.BackgroundColor = ConsoleColor.White;
+                    Console.Write(" ");
+                    Console.ResetColor();
+                }
+            }
+
+            for (int i = 0; i < 23; i++)
+            {
+                for (int j = 0; j < 64; j++)
+                {
+                    Console.SetCursorPosition(6 + j, 2 + i);
+                    
+                    Console.Write(" ");
+                    Console.ResetColor();
                 }
             }
         }
@@ -171,6 +468,38 @@ namespace CLI_GAME_PROJECT_2
             Console.Write("---------");
             Console.SetCursorPosition(12 + p2 * moveAmount, 23);
             Console.Write(" /\\   /\\ ");
+        }
+
+        public static void DrawOutLineOfGameBoard()
+        {
+            Console.SetCursorPosition(4, 1);
+            Console.Write("┌");
+            for(int i = 0; i < 65; i++)
+            {
+                Console.Write("─");
+            }
+            Console.Write("┐");
+            /*
+            Console.SetCursorPosition(4, 2);
+            Console.Write("│");
+            Console.SetCursorPosition(70, 2);
+            Console.Write("│");*/
+            for(int i = 0; i < 23; i++)
+            {
+                Console.SetCursorPosition(4, 2+i);
+                Console.Write("│");
+                Console.SetCursorPosition(70, 2+i);
+                Console.Write("│");
+            }
+
+            Console.SetCursorPosition(4, 25);
+            Console.Write("└");
+            for (int i = 0; i < 65; i++)
+            {
+                Console.Write("─");
+            }
+            Console.Write("┘");
+
         }
     }
 }
