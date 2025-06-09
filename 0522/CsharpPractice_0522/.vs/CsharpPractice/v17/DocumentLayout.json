@@ -3,31 +3,63 @@
   "WorkspaceRootPath": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B1CF04D-4D5C-4BF5-ABFA-0FDCBDBB30F3}|_0609_practice_5_hard\\_0609_practice_5_hard.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0609_practice_5_hard\\_0609_practice_5_hard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1CF04D-4D5C-4BF5-ABFA-0FDCBDBB30F3}|_0609_practice_5_hard\\_0609_practice_5_hard.csproj|solutionrelative:_0609_practice_5_hard\\_0609_practice_5_hard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6672E295-D69C-4A7C-BD05-74D50C7C59EE}|_0609_practice_4\\_0609_practice_4.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0609_practice_4\\_0609_practice_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6672E295-D69C-4A7C-BD05-74D50C7C59EE}|_0609_practice_4\\_0609_practice_4.csproj|solutionrelative:_0609_practice_4\\_0609_practice_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D6EF75B-7800-4F2A-9544-BCB098045E10}|_0609_practice_1\\_0609_practice_1.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0609_practice_1\\_0609_practice_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D6EF75B-7800-4F2A-9544-BCB098045E10}|_0609_practice_1\\_0609_practice_1.csproj|solutionrelative:_0609_practice_1\\_0609_practice_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2F3A2D-F6C0-41B8-BC27-C6E85470149E}|_0609_practice_2\\_0609_practice_2.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0609_practice_2\\_0609_practice_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2F3A2D-F6C0-41B8-BC27-C6E85470149E}|_0609_practice_2\\_0609_practice_2.csproj|solutionrelative:_0609_practice_2\\_0609_practice_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12460830-26E4-493B-A027-C5AE282A833A}|_0609_practice_3\\_0609_practice_3.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0609_practice_3\\_0609_practice_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12460830-26E4-493B-A027-C5AE282A833A}|_0609_practice_3\\_0609_practice_3.csproj|solutionrelative:_0609_practice_3\\_0609_practice_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E46A5E9-5C65-47A8-9C5B-1293F2319519}|_0524_practice\\_0526_1.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0524_practice\\_0526_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E46A5E9-5C65-47A8-9C5B-1293F2319519}|_0524_practice\\_0526_1.csproj|solutionrelative:_0524_practice\\_0526_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFA2F662-796F-40AD-AA72-83D20AD6A7AB}|_0526_1_2\\_0526_1_2.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0526_1_2\\_0526_1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA2F662-796F-40AD-AA72-83D20AD6A7AB}|_0526_1_2\\_0526_1_2.csproj|solutionrelative:_0526_1_2\\_0526_1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64CF2A3D-CEF0-4079-82FB-BCD407CB5503}|_0524_2\\_0526_2.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0524_2\\_0526_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64CF2A3D-CEF0-4079-82FB-BCD407CB5503}|_0524_2\\_0526_2.csproj|solutionrelative:_0524_2\\_0526_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{531CE8D5-2866-4FA5-AE75-9A42CE8A7F9E}|_0605_3_hard\\_0605_3_hard.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0605_3_hard\\_0605_3_hard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{531CE8D5-2866-4FA5-AE75-9A42CE8A7F9E}|_0605_3_hard\\_0605_3_hard.csproj|solutionrelative:_0605_3_hard\\_0605_3_hard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69CA0F43-7B4F-4668-9AAB-F6C85DD82D50}|_0605_3\\_0605_3.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0605_3\\_0605_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69CA0F43-7B4F-4668-9AAB-F6C85DD82D50}|_0605_3\\_0605_3.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_3\\_0605_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69CA0F43-7B4F-4668-9AAB-F6C85DD82D50}|_0605_3\\_0605_3.csproj|solutionrelative:_0605_3\\_0605_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1440289F-4FA8-486D-A576-3D5696753AAD}|_0605_2_B_Hard\\_0605_2_B_Hard.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0605_2_b_hard\\_0605_2_b_hard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1440289F-4FA8-486D-A576-3D5696753AAD}|_0605_2_B_Hard\\_0605_2_B_Hard.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_2_b_hard\\_0605_2_b_hard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1440289F-4FA8-486D-A576-3D5696753AAD}|_0605_2_B_Hard\\_0605_2_B_Hard.csproj|solutionrelative:_0605_2_b_hard\\_0605_2_b_hard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A5006DA-F254-4B9C-B9EB-A7C4EBFFE7F8}|_0605_2_B\\_0605_2_B.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0605_2_b\\_0605_2_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A5006DA-F254-4B9C-B9EB-A7C4EBFFE7F8}|_0605_2_B\\_0605_2_B.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_2_b\\_0605_2_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A5006DA-F254-4B9C-B9EB-A7C4EBFFE7F8}|_0605_2_B\\_0605_2_B.csproj|solutionrelative:_0605_2_b\\_0605_2_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25CEE4C7-9AD0-49FA-914E-294137D914B1}|_0605_2\\_0605_2.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0605_2\\_0605_2_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25CEE4C7-9AD0-49FA-914E-294137D914B1}|_0605_2\\_0605_2.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_2\\_0605_2_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25CEE4C7-9AD0-49FA-914E-294137D914B1}|_0605_2\\_0605_2.csproj|solutionrelative:_0605_2\\_0605_2_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20294F12-0252-4AAC-A279-E79360505625}|_0605_1_real\\_0605_1_real.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0605_1_real\\_0605_1_real.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20294F12-0252-4AAC-A279-E79360505625}|_0605_1_real\\_0605_1_real.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_1_real\\_0605_1_real.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20294F12-0252-4AAC-A279-E79360505625}|_0605_1_real\\_0605_1_real.csproj|solutionrelative:_0605_1_real\\_0605_1_real.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FC55B55-21D6-4D89-B632-DE086377FE2E}|_0605_1\\_0605_1.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0605_1\\_0605_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FC55B55-21D6-4D89-B632-DE086377FE2E}|_0605_1\\_0605_1.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_1\\_0605_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FC55B55-21D6-4D89-B632-DE086377FE2E}|_0605_1\\_0605_1.csproj|solutionrelative:_0605_1\\_0605_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,7 +75,7 @@
       "RelativeMoniker": "D:0:0:{99E73EC2-5669-4F08-85C6-E0CEC972B13F}|_0604_3\\_0604_3.csproj|solutionrelative:_0604_3\\_0604_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF518EE4-3D09-4DA0-B68C-01FD4C7F00A8}|_0604_4\\_0604_4.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharppractice_0522\\_0604_4\\_0604_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF518EE4-3D09-4DA0-B68C-01FD4C7F00A8}|_0604_4\\_0604_4.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0604_4\\_0604_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF518EE4-3D09-4DA0-B68C-01FD4C7F00A8}|_0604_4\\_0604_4.csproj|solutionrelative:_0604_4\\_0604_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -115,20 +147,12 @@
       "RelativeMoniker": "D:0:0:{98E3BE9C-FE74-4F3C-8C99-2F0E4A7E0719}|_0526_exception_2\\_0526_exception_2.csproj|solutionrelative:_0526_exception_2\\_0526_exception_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFA2F662-796F-40AD-AA72-83D20AD6A7AB}|_0526_1_2\\_0526_1_2.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0526_1_2\\_0526_1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFA2F662-796F-40AD-AA72-83D20AD6A7AB}|_0526_1_2\\_0526_1_2.csproj|solutionrelative:_0526_1_2\\_0526_1_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C1B4698-37BA-417E-854C-BBCA7FD02A98}|_0526_3\\_0526_3.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0526_3\\_0526_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C1B4698-37BA-417E-854C-BBCA7FD02A98}|_0526_3\\_0526_3.csproj|solutionrelative:_0526_3\\_0526_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{658627BD-23DF-4374-BF43-461FA5E786BA}|_0526_4\\_0526_4.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0526_4\\_0526_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{658627BD-23DF-4374-BF43-461FA5E786BA}|_0526_4\\_0526_4.csproj|solutionrelative:_0526_4\\_0526_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E46A5E9-5C65-47A8-9C5B-1293F2319519}|_0524_practice\\_0526_1.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0524_practice\\_0526_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E46A5E9-5C65-47A8-9C5B-1293F2319519}|_0524_practice\\_0526_1.csproj|solutionrelative:_0524_practice\\_0526_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A440E8AD-948B-4599-9B6D-221502E4E984}|_0522_1_answer\\_0522_1_answer.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_1_answer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -202,6 +226,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_0609_practice_5_hard.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0609_practice_5_hard\\_0609_practice_5_hard.cs",
+              "RelativeDocumentMoniker": "_0609_practice_5_hard\\_0609_practice_5_hard.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0609_practice_5_hard\\_0609_practice_5_hard.cs",
+              "RelativeToolTip": "_0609_practice_5_hard\\_0609_practice_5_hard.cs",
+              "ViewState": "AgIAAMsBAAAAAAAAAAAswNcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:21:28.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_0609_practice_1.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0609_practice_1\\_0609_practice_1.cs",
+              "RelativeDocumentMoniker": "_0609_practice_1\\_0609_practice_1.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0609_practice_1\\_0609_practice_1.cs",
+              "RelativeToolTip": "_0609_practice_1\\_0609_practice_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:00:03.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_0609_practice_4.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0609_practice_4\\_0609_practice_4.cs",
+              "RelativeDocumentMoniker": "_0609_practice_4\\_0609_practice_4.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0609_practice_4\\_0609_practice_4.cs",
+              "RelativeToolTip": "_0609_practice_4\\_0609_practice_4.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:49:01.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_0526_2.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0524_2\\_0526_2.cs",
+              "RelativeDocumentMoniker": "_0524_2\\_0526_2.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0524_2\\_0526_2.cs",
+              "RelativeToolTip": "_0524_2\\_0526_2.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:38:53.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_0609_practice_3.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0609_practice_3\\_0609_practice_3.cs",
+              "RelativeDocumentMoniker": "_0609_practice_3\\_0609_practice_3.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0609_practice_3\\_0609_practice_3.cs",
+              "RelativeToolTip": "_0609_practice_3\\_0609_practice_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:38:12.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_0609_practice_2.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0609_practice_2\\_0609_practice_2.cs",
+              "RelativeDocumentMoniker": "_0609_practice_2\\_0609_practice_2.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0609_practice_2\\_0609_practice_2.cs",
+              "RelativeToolTip": "_0609_practice_2\\_0609_practice_2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:24:56.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_0605_3_hard.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_3_hard\\_0605_3_hard.cs",
               "RelativeDocumentMoniker": "_0605_3_hard\\_0605_3_hard.cs",
@@ -214,33 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_0605_3.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_3\\_0605_3.cs",
-              "RelativeDocumentMoniker": "_0605_3\\_0605_3.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_3\\_0605_3.cs",
-              "RelativeToolTip": "_0605_3\\_0605_3.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAywDwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T06:18:52.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_0605_2_B_Hard.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_2_B_Hard\\_0605_2_B_Hard.cs",
-              "RelativeDocumentMoniker": "_0605_2_B_Hard\\_0605_2_B_Hard.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_2_B_Hard\\_0605_2_B_Hard.cs",
-              "RelativeToolTip": "_0605_2_B_Hard\\_0605_2_B_Hard.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAUwD0AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T06:06:32.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "_0605_2_B.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_2_B\\_0605_2_B.cs",
               "RelativeDocumentMoniker": "_0605_2_B\\_0605_2_B.cs",
@@ -253,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "_0605_2_A.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_2\\_0605_2_A.cs",
               "RelativeDocumentMoniker": "_0605_2\\_0605_2_A.cs",
@@ -266,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "_0605_1_real.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_1_real\\_0605_1_real.cs",
               "RelativeDocumentMoniker": "_0605_1_real\\_0605_1_real.cs",
@@ -279,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "_0605_1.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_1\\_0605_1.cs",
               "RelativeDocumentMoniker": "_0605_1\\_0605_1.cs",
@@ -292,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "_0604_4.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0604_4\\_0604_4.cs",
               "RelativeDocumentMoniker": "_0604_4\\_0604_4.cs",
@@ -305,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "_0604_3.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0604_3\\_0604_3.cs",
               "RelativeDocumentMoniker": "_0604_3\\_0604_3.cs",
@@ -318,7 +394,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "_0526_1_2.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0526_1_2\\_0526_1_2.cs",
+              "RelativeDocumentMoniker": "_0526_1_2\\_0526_1_2.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0526_1_2\\_0526_1_2.cs",
+              "RelativeToolTip": "_0526_1_2\\_0526_1_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T08:03:23.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_0526_1.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0524_practice\\_0526_1.cs",
+              "RelativeDocumentMoniker": "_0524_practice\\_0526_1.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0524_practice\\_0526_1.cs",
+              "RelativeToolTip": "_0524_practice\\_0526_1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T05:00:08.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_0605_2_B_Hard.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_2_B_Hard\\_0605_2_B_Hard.cs",
+              "RelativeDocumentMoniker": "_0605_2_B_Hard\\_0605_2_B_Hard.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_2_B_Hard\\_0605_2_B_Hard.cs",
+              "RelativeToolTip": "_0605_2_B_Hard\\_0605_2_B_Hard.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwD0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:06:32.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_0605_3.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_3\\_0605_3.cs",
+              "RelativeDocumentMoniker": "_0605_3\\_0605_3.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0605_3\\_0605_3.cs",
+              "RelativeToolTip": "_0605_3\\_0605_3.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAywDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:18:52.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "_0604_2.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0604_2\\_0604_2.cs",
               "RelativeDocumentMoniker": "_0604_2\\_0604_2.cs",
@@ -331,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "_0604_1.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0604_1\\_0604_1.cs",
               "RelativeDocumentMoniker": "_0604_1\\_0604_1.cs",
@@ -344,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "_0530_4.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0530_4\\_0530_4.cs",
               "RelativeDocumentMoniker": "_0530_4\\_0530_4.cs",
@@ -352,11 +480,12 @@
               "RelativeToolTip": "_0530_4\\_0530_4.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAswDcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T00:27:50.59Z"
+              "WhenOpened": "2025-06-02T00:27:50.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "_0530_3.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0530_3\\_0530_3.cs",
               "RelativeDocumentMoniker": "_0530_3\\_0530_3.cs",
@@ -364,35 +493,38 @@
               "RelativeToolTip": "_0530_3\\_0530_3.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T10:02:09.913Z"
+              "WhenOpened": "2025-05-31T10:02:09.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "_0530_2.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0530_2\\_0530_2.cs",
               "RelativeDocumentMoniker": "_0530_2\\_0530_2.cs",
               "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0530_2\\_0530_2.cs",
               "RelativeToolTip": "_0530_2\\_0530_2.cs",
-              "ViewState": "AQIAANQAAAAAAAAAAAAQwCYBAAANAAAA",
+              "ViewState": "AgIAANQAAAAAAAAAAAAQwCYBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T08:12:41.834Z"
+              "WhenOpened": "2025-05-30T08:12:41.834Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "_0530_1.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0530_1\\_0530_1.cs",
               "RelativeDocumentMoniker": "_0530_1\\_0530_1.cs",
               "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0530_1\\_0530_1.cs",
               "RelativeToolTip": "_0530_1\\_0530_1.cs",
-              "ViewState": "AQIAADwBAAAAAAAAAAAcwBYAAAAcAAAA",
+              "ViewState": "AgIAADwBAAAAAAAAAAAcwBYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T07:49:03.533Z"
+              "WhenOpened": "2025-05-30T07:49:03.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "_0529_3.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0529_3\\_0529_3.cs",
               "RelativeDocumentMoniker": "_0529_3\\_0529_3.cs",
@@ -400,11 +532,12 @@
               "RelativeToolTip": "_0529_3\\_0529_3.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T07:58:13.08Z"
+              "WhenOpened": "2025-05-29T07:58:13.08Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "_0529_2.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0529_2\\_0529_2.cs",
               "RelativeDocumentMoniker": "_0529_2\\_0529_2.cs",
@@ -412,11 +545,12 @@
               "RelativeToolTip": "_0529_2\\_0529_2.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAAGcBAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T07:24:03.088Z"
+              "WhenOpened": "2025-05-29T07:24:03.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "_0529_1.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0529_1\\_0529_1.cs",
               "RelativeDocumentMoniker": "_0529_1\\_0529_1.cs",
@@ -424,11 +558,12 @@
               "RelativeToolTip": "_0529_1\\_0529_1.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwB0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T05:48:21.058Z"
+              "WhenOpened": "2025-05-29T05:48:21.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "_0528_2_answer.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0528_2_answer\\_0528_2_answer.cs",
               "RelativeDocumentMoniker": "_0528_2_answer\\_0528_2_answer.cs",
@@ -436,11 +571,12 @@
               "RelativeToolTip": "_0528_2_answer\\_0528_2_answer.cs",
               "ViewState": "AgIAABMBAAAAAAAAAAAUwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T00:35:49.949Z"
+              "WhenOpened": "2025-05-29T00:35:49.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "_0527_4_hard.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0527_4\\_0527_4_hard.cs",
               "RelativeDocumentMoniker": "_0527_4\\_0527_4_hard.cs",
@@ -448,11 +584,12 @@
               "RelativeToolTip": "_0527_4\\_0527_4_hard.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAUwFsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T08:32:20.364Z"
+              "WhenOpened": "2025-05-27T08:32:20.364Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "_0527_2.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0527_2\\_0527_2.cs",
               "RelativeDocumentMoniker": "_0527_2\\_0527_2.cs",
@@ -460,11 +597,12 @@
               "RelativeToolTip": "_0527_2\\_0527_2.cs",
               "ViewState": "AgIAAIUAAAAAAAAAAAAkwJkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T07:19:35.677Z"
+              "WhenOpened": "2025-05-27T07:19:35.677Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "_0527_1.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0527_1\\_0527_1.cs",
               "RelativeDocumentMoniker": "_0527_1\\_0527_1.cs",
@@ -472,23 +610,12 @@
               "RelativeToolTip": "_0527_1\\_0527_1.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAUwL4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T05:58:09.956Z"
+              "WhenOpened": "2025-05-27T05:58:09.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_0526_1_2.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0526_1_2\\_0526_1_2.cs",
-              "RelativeDocumentMoniker": "_0526_1_2\\_0526_1_2.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0526_1_2\\_0526_1_2.cs",
-              "RelativeToolTip": "_0526_1_2\\_0526_1_2.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T08:03:23.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "_0526_exception_2.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0526_exception_2\\_0526_exception_2.cs",
               "RelativeDocumentMoniker": "_0526_exception_2\\_0526_exception_2.cs",
@@ -496,11 +623,12 @@
               "RelativeToolTip": "_0526_exception_2\\_0526_exception_2.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAA6wB0AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T07:36:12.133Z"
+              "WhenOpened": "2025-05-26T07:36:12.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "_0523_4_hard.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_4_hard\\_0523_4_hard.cs",
               "RelativeDocumentMoniker": "_0523_4_hard\\_0523_4_hard.cs",
@@ -508,11 +636,12 @@
               "RelativeToolTip": "_0523_4_hard\\_0523_4_hard.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA+wE4AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T13:16:13.517Z"
+              "WhenOpened": "2025-05-25T13:16:13.517Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "_0523_3_hard_1.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_3_hard_1\\_0523_3_hard_1.cs",
               "RelativeDocumentMoniker": "_0523_3_hard_1\\_0523_3_hard_1.cs",
@@ -520,11 +649,12 @@
               "RelativeToolTip": "_0523_3_hard_1\\_0523_3_hard_1.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:32:36.859Z"
+              "WhenOpened": "2025-05-23T08:32:36.859Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "_0527_2_hard.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0527_2_hard\\_0527_2_hard.cs",
               "RelativeDocumentMoniker": "_0527_2_hard\\_0527_2_hard.cs",
@@ -532,11 +662,12 @@
               "RelativeToolTip": "_0527_2_hard\\_0527_2_hard.cs",
               "ViewState": "AgIAAJYAAAAAAAAAAAAuwJ4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T08:50:52.874Z"
+              "WhenOpened": "2025-05-27T08:50:52.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "_0528_1.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0528_1\\_0528_1.cs",
               "RelativeDocumentMoniker": "_0528_1\\_0528_1.cs",
@@ -544,11 +675,12 @@
               "RelativeToolTip": "_0528_1\\_0528_1.cs",
               "ViewState": "AgIAAKkAAAAAAAAAAAAkwEcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T06:35:33.252Z"
+              "WhenOpened": "2025-05-28T06:35:33.252Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "_0528_2.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0528_2\\_0528_2.cs",
               "RelativeDocumentMoniker": "_0528_2\\_0528_2.cs",
@@ -556,11 +688,12 @@
               "RelativeToolTip": "_0528_2\\_0528_2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T08:44:10.324Z"
+              "WhenOpened": "2025-05-28T08:44:10.324Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "_0526_4.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0526_4\\_0526_4.cs",
               "RelativeDocumentMoniker": "_0526_4\\_0526_4.cs",
@@ -568,11 +701,12 @@
               "RelativeToolTip": "_0526_4\\_0526_4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T07:15:06.982Z"
+              "WhenOpened": "2025-05-26T07:15:06.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "_0526_3.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0526_3\\_0526_3.cs",
               "RelativeDocumentMoniker": "_0526_3\\_0526_3.cs",
@@ -580,23 +714,12 @@
               "RelativeToolTip": "_0526_3\\_0526_3.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAkwBQAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T07:10:46.872Z"
+              "WhenOpened": "2025-05-26T07:10:46.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "_0526_1.cs",
-              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0524_practice\\_0526_1.cs",
-              "RelativeDocumentMoniker": "_0524_practice\\_0526_1.cs",
-              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0524_practice\\_0526_1.cs",
-              "RelativeToolTip": "_0524_practice\\_0526_1.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T05:00:08.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "_0523_3.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_3\\_0523_3.cs",
               "RelativeDocumentMoniker": "_0523_3\\_0523_3.cs",
@@ -604,11 +727,12 @@
               "RelativeToolTip": "_0523_3\\_0523_3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T06:38:17.629Z"
+              "WhenOpened": "2025-05-23T06:38:17.629Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_1_answer\\Program.cs",
               "RelativeDocumentMoniker": "_0522_1_answer\\Program.cs",
@@ -616,11 +740,12 @@
               "RelativeToolTip": "_0522_1_answer\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAowA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T00:53:19.088Z"
+              "WhenOpened": "2025-05-23T00:53:19.088Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "_0523_2_answer.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_2_answer\\_0523_2_answer.cs",
               "RelativeDocumentMoniker": "_0523_2_answer\\_0523_2_answer.cs",
@@ -628,11 +753,12 @@
               "RelativeToolTip": "_0523_2_answer\\_0523_2_answer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T01:43:29.303Z"
+              "WhenOpened": "2025-05-26T01:43:29.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "_0523_1_answer__.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_1_answer__\\_0523_1_answer__.cs",
               "RelativeDocumentMoniker": "_0523_1_answer__\\_0523_1_answer__.cs",
@@ -640,11 +766,12 @@
               "RelativeToolTip": "_0523_1_answer__\\_0523_1_answer__.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAkwCoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T01:23:01.485Z"
+              "WhenOpened": "2025-05-26T01:23:01.485Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "_0523_review.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_1_answer\\_0523_review.cs",
               "RelativeDocumentMoniker": "_0523_1_answer\\_0523_review.cs",
@@ -652,11 +779,12 @@
               "RelativeToolTip": "_0523_1_answer\\_0523_review.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAwwHAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T00:34:15.294Z"
+              "WhenOpened": "2025-05-26T00:34:15.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "_0522.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522\\_0522.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Visual Studio 2022\\Projects\\CsharpPractice\\_0522\\_0522.cs",
@@ -667,7 +795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "_0523_2_hard.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_2_hard\\_0523_2_hard.cs",
               "RelativeDocumentMoniker": "_0522_2_hard\\_0523_2_hard.cs",
@@ -675,11 +803,12 @@
               "RelativeToolTip": "_0522_2_hard\\_0523_2_hard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T08:26:45.658Z"
+              "WhenOpened": "2025-05-23T08:26:45.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "_0523_1_hard.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_1_hard\\_0523_1_hard.cs",
               "RelativeDocumentMoniker": "_0522_1_hard\\_0523_1_hard.cs",
@@ -687,11 +816,12 @@
               "RelativeToolTip": "_0522_1_hard\\_0523_1_hard.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAkwDoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T07:54:07.855Z"
+              "WhenOpened": "2025-05-23T07:54:07.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "_0523_4.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_4\\_0523_4.cs",
               "RelativeDocumentMoniker": "_0523_4\\_0523_4.cs",
@@ -699,11 +829,12 @@
               "RelativeToolTip": "_0523_4\\_0523_4.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAAwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T07:35:43.471Z"
+              "WhenOpened": "2025-05-23T07:35:43.471Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "_0523_2.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_2\\_0523_2.cs",
               "RelativeDocumentMoniker": "_0523_2\\_0523_2.cs",
@@ -711,11 +842,12 @@
               "RelativeToolTip": "_0523_2\\_0523_2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T06:27:17.595Z"
+              "WhenOpened": "2025-05-23T06:27:17.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "_0523_1.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0523_1\\_0523_1.cs",
               "RelativeDocumentMoniker": "_0523_1\\_0523_1.cs",
@@ -723,11 +855,12 @@
               "RelativeToolTip": "_0523_1\\_0523_1.cs",
               "ViewState": "AgIAAGcAAAAAAAAAAAAkwHcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T05:49:57.455Z"
+              "WhenOpened": "2025-05-23T05:49:57.455Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_03_answer\\Program.cs",
               "RelativeDocumentMoniker": "_0522_03_answer\\Program.cs",
@@ -735,11 +868,12 @@
               "RelativeToolTip": "_0522_03_answer\\Program.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAkwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T01:02:35.882Z"
+              "WhenOpened": "2025-05-23T01:02:35.882Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "_0522_3.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_3\\_0522_3.cs",
               "RelativeDocumentMoniker": "_0522_3\\_0522_3.cs",
@@ -747,11 +881,12 @@
               "RelativeToolTip": "_0522_3\\_0522_3.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAkwEAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T08:12:16.7Z"
+              "WhenOpened": "2025-05-22T08:12:16.7Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "_0522_2.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpPractice_0522\\_0522_2\\_0522_2.cs",
               "RelativeDocumentMoniker": "_0522_2\\_0522_2.cs",
@@ -759,7 +894,8 @@
               "RelativeToolTip": "_0522_2\\_0522_2.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T08:06:48.829Z"
+              "WhenOpened": "2025-05-22T08:06:48.829Z",
+              "EditorCaption": ""
             }
           ]
         }

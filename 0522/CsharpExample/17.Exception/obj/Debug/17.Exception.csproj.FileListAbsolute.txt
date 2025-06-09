@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17.Exception\bin\Debug\17.Exception.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17.Exception\bin\Debug\17.Exception.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17.Exception\bin\Debug\17.Exception.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17.Exception\obj\Debug\17.Exception.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17.Exception\obj\Debug\17.Exception.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17.Exception\obj\Debug\17.Exception.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17.Exception\obj\Debug\17.Exception.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17.Exception\obj\Debug\17.Exception.exe.config

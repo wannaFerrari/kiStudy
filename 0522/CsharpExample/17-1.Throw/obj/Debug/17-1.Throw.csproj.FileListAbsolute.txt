@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17-1.Throw\bin\Debug\17-1.Throw.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17-1.Throw\bin\Debug\17-1.Throw.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17-1.Throw\bin\Debug\17-1.Throw.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17-1.Throw\obj\Debug\17-1.Throw.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17-1.Throw\obj\Debug\17-1.Throw.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17-1.Throw\obj\Debug\17-1.Throw.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17-1.Throw\obj\Debug\17-1.Throw.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\17-1.Throw\obj\Debug\17-1.Throw.exe.config

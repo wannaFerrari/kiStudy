@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0609_practice_5_hard\bin\Debug\_0609_practice_5_hard.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0609_practice_5_hard\bin\Debug\_0609_practice_5_hard.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0609_practice_5_hard\bin\Debug\_0609_practice_5_hard.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0609_practice_5_hard\obj\Debug\_0609_practice_5_hard.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0609_practice_5_hard\obj\Debug\_0609_practice_5_hard.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0609_practice_5_hard\obj\Debug\_0609_practice_5_hard.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0609_practice_5_hard\obj\Debug\_0609_practice_5_hard.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0609_practice_5_hard\obj\Debug\_0609_practice_5_hard.exe.config

@@ -13,3 +13,11 @@ F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0522
 F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0522\obj\Debug\_0522.csproj.CoreCompileInputs.cache
 F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0522\obj\Debug\_0522.exe
 F:\KIAcademy\visualStudioExample&Practice\kiStudy\0522\CsharpPractice_0522\_0522\obj\Debug\_0522.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522\bin\Debug\_0522.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522\bin\Debug\_0522.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522\bin\Debug\_0522.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522\obj\Debug\_0522.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522\obj\Debug\_0522.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522\obj\Debug\_0522.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522\obj\Debug\_0522.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpPractice_0522\_0522\obj\Debug\_0522.pdb

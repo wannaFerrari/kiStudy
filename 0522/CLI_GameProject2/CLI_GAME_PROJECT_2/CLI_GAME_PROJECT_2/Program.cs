@@ -36,6 +36,7 @@ namespace CLI_GAME_PROJECT_2
             int betweenLeft = 0;
             int nextLine = 0;
             int afterLineForRedLine = 4;
+            bool isHitted = false;
             
             //int[] screenLine = new int[20];
             List<int> screenLine = new List<int>();
@@ -57,7 +58,7 @@ namespace CLI_GAME_PROJECT_2
 
 
                 //screenLine[10] = 1;
-                for (int i = 19; i >= 0; i--)
+                for (int i = 19; i >= 0; i--)  // 화면 맨 밑쪽이 배열 0번, 맨 위가 배열 19번
                 {
                     Console.SetCursorPosition(10, 22 - i);
                     if (screenLine[i] == 0)
@@ -165,6 +166,12 @@ namespace CLI_GAME_PROJECT_2
                     }
                     else if (screenLine[i] == 19)
                     {
+                        Console.ForegroundColor = ConsoleColor.DarkRed;
+                        Console.Write("                                               *********");
+                        Console.ResetColor();
+                    }
+                    else if (screenLine[i] == 20)
+                    {
                         Console.Write("  ******************************************************");
 
                     }
@@ -197,11 +204,17 @@ namespace CLI_GAME_PROJECT_2
                     bombTrigger = false;
                 }
                 MovePlayer(playerPosition2, playerPosition2, moveAmount);
+                isHitted = CheckHit(screenLine[0], playerPosition2);
+                if(isHitted == true)
+                {
+                    Console.SetCursorPosition(80, 7);
+                    Console.Write("끝");
+                }
                 if (betweenLeft == 0)
                 {
                     if(afterLineForRedLine == 0)
                     {
-                        nextLine = rand.Next(1, 20);
+                        nextLine = rand.Next(1, 21);
 
                         afterLineForRedLine = betweenRedLines;
                     }
@@ -220,7 +233,7 @@ namespace CLI_GAME_PROJECT_2
                 betweenLeft--;
                     //screenLine.Add(rand.Next(0, 5));
                 //Task.Delay(1000);
-                Thread.Sleep(50);
+                Thread.Sleep(70);
                 /*ConsoleKeyInfo key = Console.ReadKey();
                 switch (key.Key)
                 {
@@ -267,123 +280,239 @@ namespace CLI_GAME_PROJECT_2
             }
         }
 
-        //public static bool CheckHit(int line, int pos)
-        //{
-        //    if (line == 0)
-        //    {
-        //        return false;
-        //    }
-        //    else if (line == 1)
-        //    {
-        //        if (pos == 0)
-        //        {
-        //            return true;
-        //        }
-        //        else
-        //        {
-        //            return false;
-        //        }
-        //    }
-        //    else if (line == 2)
-        //    {
-        //        if (pos == 1)
-        //        {
-        //            return true;
-        //        }
-        //        else
-        //        {
-        //            return false;
-        //        }
-        //    }
-        //    else if (line == 3)
-        //    {
-        //        if (pos == 2)
-        //        {
-        //            return true;
-        //        }
-        //        else
-        //        {
-        //            return false;
-        //        }
-        //    }
-        //    else if (line == 4)
-        //    {
-        //        if (pos == 3)
-        //        {
-        //            return true;
-        //        }
-        //        else
-        //        {
-        //            return false;
-        //        }
-        //    }
-        //    else if (line == 5)
-        //    {
-        //        if (pos == 4)
-        //        {
-        //            return true;
-        //        }
-        //        else
-        //        {
-        //            return false;
-        //        }
-        //    }
-        //    else if (line == 6)
-        //    {
-        //        if (pos == 5)
-        //        {
-        //            return true;
-        //        }
-        //        else
-        //        {
-        //            return false;
-        //        }
-        //    }
-        //    else if (line == 7)
-        //    {
-
-        //    }
-        //    else if (line == 8)
-        //    {
-
-        //    }
-        //    else if (line == 9)
-        //    {
-
-        //    }
-        //    else if (line == 10)
-        //    {
-
-        //    }
-        //    else if (line == 11)
-        //    {
-
-        //    }
-        //    else if (line == 12)
-        //    {
-
-        //    }
-        //    else if (line == 13)
-        //    {
-
-        //    }
-        //    else if (line == 14)
-        //    {
-
-        //    }
-        //    else if (line == 15)
-        //    {
-
-        //    }
-        //    else if (line == 16)
-        //    {
-
-        //    }
-        //    else if (line == 17)
-        //    {
-
-        //    }
-        //}
+        public static bool CheckHit(int line, int pos)
+        {
+            if (line == 0)
+            {
+                return false;
+            }
+            else if (line == 1)
+            {
+                if (pos == 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 2)
+            {
+                if (pos == 1)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 3)
+            {
+                if (pos == 2)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 4)
+            {
+                if (pos == 3)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 5)
+            {
+                if (pos == 4)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 6)
+            {
+                if (pos == 5)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 7)
+            {
+                if (pos == 0 || pos == 2)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 8)
+            {
+                if (pos == 1 || pos == 3)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 9)
+            {
+                if (pos == 2 || pos == 4)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 10)
+            {
+                if (pos == 3 || pos == 5)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 11)
+            {
+                if (pos == 0 || pos == 2 || pos == 4)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 12)
+            {
+                if (pos == 1 || pos == 3 || pos == 5)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 13)
+            {
+                if (pos == 0 || pos == 1 || pos == 4 || pos == 5)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else if (line == 14)
+            {
+                if (pos == 0)
+                {
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+            else if (line == 15)
+            {
+                if (pos == 1)
+                {
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+            else if (line == 16)
+            {
+                if (pos == 2)
+                {
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+            else if (line == 17)
+            {
+                if (pos == 3)
+                {
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+            else if (line == 18)
+            {
+                if (pos == 4)
+                {
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+            else if (line == 19)
+            {
+                if (pos == 5)
+                {
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }
+            }
+            else if (line == 20)
+            {
+                /*
+                if (pos == 3)
+                {
+                    return false;
+                }
+                else
+                {
+                    return true;
+                }*/
+                return false;
+            }
+            else
+            {
+                return false;
+            }
+        }
         public static bool MiniGame(Random rand, Thread thread)
         {
            // thread.Join();
