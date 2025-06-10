@@ -1,0 +1,8 @@
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\19.Algorithm&DataStructure\bin\Debug\19.Algorithm&DataStructure.exe.config
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\19.Algorithm&DataStructure\bin\Debug\19.Algorithm&DataStructure.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\19.Algorithm&DataStructure\bin\Debug\19.Algorithm&DataStructure.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\19.Algorithm&DataStructure\obj\Debug\19.Algorithm&DataStructure.csproj.AssemblyReference.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\19.Algorithm&DataStructure\obj\Debug\19.Algorithm&DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\19.Algorithm&DataStructure\obj\Debug\19.Algorithm&DataStructure.exe
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\19.Algorithm&DataStructure\obj\Debug\19.Algorithm&DataStructure.pdb
+C:\Users\KGA\Documents\sungJoon\KiStudy\kiStudy\0522\CsharpExample\19.Algorithm&DataStructure\obj\Debug\19.Algorithm&DataStructure.exe.config

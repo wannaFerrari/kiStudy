@@ -3,27 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4DF388D-DF0B-4477-90C3-9704FEB9580D}|19.Algorithm\u0026DataStructure\\19.Algorithm\u0026DataStructure.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharpexample\\19.algorithm\u0026datastructure\\19.algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4DF388D-DF0B-4477-90C3-9704FEB9580D}|19.Algorithm\u0026DataStructure\\19.Algorithm\u0026DataStructure.csproj|solutionrelative:19.algorithm\u0026datastructure\\19.algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A77493FF-C32B-425F-8F2F-69536976189B}|18.\uCD94\uAC00\uBB38\uBC95\\18.\uCD94\uAC00\uBB38\uBC95.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharpexample\\18.\uCD94\uAC00\uBB38\uBC95\\18.additionalsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A77493FF-C32B-425F-8F2F-69536976189B}|18.\uCD94\uAC00\uBB38\uBC95\\18.\uCD94\uAC00\uBB38\uBC95.csproj|solutionrelative:18.\uCD94\uAC00\uBB38\uBC95\\18.additionalsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A77493FF-C32B-425F-8F2F-69536976189B}|18.\uCD94\uAC00\uBB38\uBC95\\18.\uCD94\uAC00\uBB38\uBC95.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharpexample\\18.\uCD94\uAC00\uBB38\uBC95\\partialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A77493FF-C32B-425F-8F2F-69536976189B}|18.\uCD94\uAC00\uBB38\uBC95\\18.\uCD94\uAC00\uBB38\uBC95.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\18.\uCD94\uAC00\uBB38\uBC95\\partialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A77493FF-C32B-425F-8F2F-69536976189B}|18.\uCD94\uAC00\uBB38\uBC95\\18.\uCD94\uAC00\uBB38\uBC95.csproj|solutionrelative:18.\uCD94\uAC00\uBB38\uBC95\\partialclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D6A131E-BCD7-4376-A41C-42C81E318A69}|17-1.Throw\\17-1.Throw.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharpexample\\17-1.throw\\17_1_throw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D6A131E-BCD7-4376-A41C-42C81E318A69}|17-1.Throw\\17-1.Throw.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\17-1.throw\\17_1_throw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D6A131E-BCD7-4376-A41C-42C81E318A69}|17-1.Throw\\17-1.Throw.csproj|solutionrelative:17-1.throw\\17_1_throw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00003E30-CE34-473D-BC07-71F891008917}|17.Exception\\17.Exception.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharpexample\\17.exception\\17_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{00003E30-CE34-473D-BC07-71F891008917}|17.Exception\\17.Exception.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\17.exception\\17_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00003E30-CE34-473D-BC07-71F891008917}|17.Exception\\17.Exception.csproj|solutionrelative:17.exception\\17_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24AE6E61-9247-45A2-818E-5A20199CDADA}|16-5.Event\\16-5.Event.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharpexample\\16-5.event\\16_5_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24AE6E61-9247-45A2-818E-5A20199CDADA}|16-5.Event\\16-5.Event.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\16-5.event\\16_5_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24AE6E61-9247-45A2-818E-5A20199CDADA}|16-5.Event\\16-5.Event.csproj|solutionrelative:16-5.event\\16_5_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8942820F-A207-44AF-A9A3-CFA432DBB071}|08.UserDefinedTypes_Struct\\08.UserDefinedTypes_Struct.csproj|c:\\users\\kga\\documents\\sungjoon\\kistudy\\kistudy\\0522\\csharpexample\\08.userdefinedtypes_struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8942820F-A207-44AF-A9A3-CFA432DBB071}|08.UserDefinedTypes_Struct\\08.UserDefinedTypes_Struct.csproj|C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\08.userdefinedtypes_struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8942820F-A207-44AF-A9A3-CFA432DBB071}|08.UserDefinedTypes_Struct\\08.UserDefinedTypes_Struct.csproj|solutionrelative:08.userdefinedtypes_struct\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -138,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,7 +150,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "19.Algorithm.cs",
+              "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\19.Algorithm\u0026DataStructure\\19.Algorithm.cs",
+              "RelativeDocumentMoniker": "19.Algorithm\u0026DataStructure\\19.Algorithm.cs",
+              "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\19.Algorithm\u0026DataStructure\\19.Algorithm.cs*",
+              "RelativeToolTip": "19.Algorithm\u0026DataStructure\\19.Algorithm.cs*",
+              "ViewState": "AgIAANkAAAAAAAAAAAAgwPoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T00:39:04.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PartialClass.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\18.\uCD94\uAC00\uBB38\uBC95\\PartialClass.cs",
               "RelativeDocumentMoniker": "18.\uCD94\uAC00\uBB38\uBC95\\PartialClass.cs",
@@ -154,25 +171,24 @@
               "RelativeToolTip": "18.\uCD94\uAC00\uBB38\uBC95\\PartialClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T05:30:21.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T05:30:21.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "18.AdditionalSyntax.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\18.\uCD94\uAC00\uBB38\uBC95\\18.AdditionalSyntax.cs",
               "RelativeDocumentMoniker": "18.\uCD94\uAC00\uBB38\uBC95\\18.AdditionalSyntax.cs",
               "ToolTip": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\18.\uCD94\uAC00\uBB38\uBC95\\18.AdditionalSyntax.cs",
               "RelativeToolTip": "18.\uCD94\uAC00\uBB38\uBC95\\18.AdditionalSyntax.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAUwFIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwFAAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T01:50:36.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "17_1_Throw.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\17-1.Throw\\17_1_Throw.cs",
               "RelativeDocumentMoniker": "17-1.Throw\\17_1_Throw.cs",
@@ -180,12 +196,11 @@
               "RelativeToolTip": "17-1.Throw\\17_1_Throw.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T01:31:12.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T01:31:12.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "17_Exception.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\17.Exception\\17_Exception.cs",
               "RelativeDocumentMoniker": "17.Exception\\17_Exception.cs",
@@ -193,12 +208,11 @@
               "RelativeToolTip": "17.Exception\\17_Exception.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAkwDQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T00:35:10.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-09T00:35:10.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "16_5_Event.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\16-5.Event\\16_5_Event.cs",
               "RelativeDocumentMoniker": "16-5.Event\\16_5_Event.cs",
@@ -206,12 +220,11 @@
               "RelativeToolTip": "16-5.Event\\16_5_Event.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T04:37:44.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T04:37:44.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\16-4.LambdaExpression\\Program.cs",
               "RelativeDocumentMoniker": "16-4.LambdaExpression\\Program.cs",
@@ -223,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\16-3.CallbackAndSpecifier\\Program.cs",
               "RelativeDocumentMoniker": "16-3.CallbackAndSpecifier\\Program.cs",
@@ -235,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\16-2.DelegateChain\\Program.cs",
               "RelativeDocumentMoniker": "16-2.DelegateChain\\Program.cs",
@@ -247,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\16-1.Pre-DefinedDelegate\\Program.cs",
               "RelativeDocumentMoniker": "16-1.Pre-DefinedDelegate\\Program.cs",
@@ -259,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\16.Delegate\\Program.cs",
               "RelativeDocumentMoniker": "16.Delegate\\Program.cs",
@@ -271,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\15.OperatorOverloading\\Program.cs",
               "RelativeDocumentMoniker": "15.OperatorOverloading\\Program.cs",
@@ -283,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\14-2.GenericSearch\\Program.cs",
               "RelativeDocumentMoniker": "14-2.GenericSearch\\Program.cs",
@@ -295,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\14-1.CollectionsWithGeneric\\Program.cs",
               "RelativeDocumentMoniker": "14-1.CollectionsWithGeneric\\Program.cs",
@@ -307,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\14.Generic\\Program.cs",
               "RelativeDocumentMoniker": "14.Generic\\Program.cs",
@@ -319,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\11.Inheritance\\Program.cs",
               "RelativeDocumentMoniker": "11.Inheritance\\Program.cs",
@@ -331,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\09.Class\\Program.cs",
               "RelativeDocumentMoniker": "09.Class\\Program.cs",
@@ -343,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\01.DataType\\Program.cs",
               "RelativeDocumentMoniker": "01.DataType\\Program.cs",
@@ -355,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\08.UserDefinedTypes_Struct\\Program.cs",
               "RelativeDocumentMoniker": "08.UserDefinedTypes_Struct\\Program.cs",
@@ -363,12 +376,11 @@
               "RelativeToolTip": "08.UserDefinedTypes_Struct\\Program.cs",
               "ViewState": "AgIAAG0AAAAAAAAAAAAkwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T01:26:20.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T01:26:20.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\12.Interface\\Program.cs",
               "RelativeDocumentMoniker": "12.Interface\\Program.cs",
@@ -380,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\13.GetterAndSetter\\Program.cs",
               "RelativeDocumentMoniker": "13.GetterAndSetter\\Program.cs",
@@ -392,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\ex.CLIGame\\Program.cs",
               "RelativeDocumentMoniker": "ex.CLIGame\\Program.cs",
@@ -404,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\10.Static\\Program.cs",
               "RelativeDocumentMoniker": "10.Static\\Program.cs",
@@ -416,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\_0524_practice\\Program.cs",
               "RelativeDocumentMoniker": "_0524_practice\\Program.cs",
@@ -428,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\06.Method\\Program.cs",
               "RelativeDocumentMoniker": "06.Method\\Program.cs",
@@ -440,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\04.Array\\Program.cs",
               "RelativeDocumentMoniker": "04.Array\\Program.cs",
@@ -452,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\03.Conditional\\Program.cs",
               "RelativeDocumentMoniker": "03.Conditional\\Program.cs",
@@ -464,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\00.InputOutput\\Program.cs",
               "RelativeDocumentMoniker": "00.InputOutput\\Program.cs",
@@ -476,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\13-1.Property\\Program.cs",
               "RelativeDocumentMoniker": "13-1.Property\\Program.cs",
@@ -488,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\13-2.Indexer\\Program.cs",
               "RelativeDocumentMoniker": "13-2.Indexer\\Program.cs",
@@ -500,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\11-1.Null\\Program.cs",
               "RelativeDocumentMoniker": "11-1.Null\\Program.cs",
@@ -512,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\05.Loop\\Program.cs",
               "RelativeDocumentMoniker": "05.Loop\\Program.cs",
@@ -524,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KGA\\Documents\\sungJoon\\KiStudy\\kiStudy\\0522\\CsharpExample\\002.Operator\\Program.cs",
               "RelativeDocumentMoniker": "002.Operator\\Program.cs",
